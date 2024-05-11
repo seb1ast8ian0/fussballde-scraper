@@ -1,0 +1,4757 @@
+{
+  "name": "Sachsen",
+  "label": "teamTypes",
+  "options": [
+    {
+      "name": "Altsenioren Ü50",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "1.Kreisliga (A)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga Ü50",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtklasse Ü50",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Altsenioren Ü40",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "1.Kreisliga (A)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga Ü40",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtklasse Ü 40 St.3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtklasse Ü40 St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtklasse Ü40 St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtliga  Ü40",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtklasse Ü40",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Altherren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtoberliga Senioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Senioren Ü35 Stadtliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisliga (A)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga Senioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtklasse Ü35 St. 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ü35 Stadtklasse St.1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Senioren Kreisliga Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Senioren Kreisliga Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Breitensport-Liga Großfeld",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Breitensport-Liga Kleinfeld",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Chemnitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Stadtklasse Senioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Chemnitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2. Stadtklasse Senioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Herren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Sachsenliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesklasse Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Chemnitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Einsiedler Brauhaus Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Sparkassenoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Erzgebirge",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Erzgebirgssparkassen-Liga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren Stadtliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Meißen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Mittelsachsen - Liga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Muldental/Leipziger Land",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ur-Krostitzer Nordsachsenliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landskron Oberlausitzliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sächs.Schweiz/Osterzgeb.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "TEAMBRO-Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vogtland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Sparkassenvogtlandliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Sparkassen-Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Zwickau",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Westsachsenliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisliga (A)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Chemnitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Chemnitz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "mobilplus im O.D.C Stadtliga A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Erzgebirge",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Sparkassen-Kreisliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sparkassen-Kreisliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren Stadtklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Meißen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Mittelsachsenklasse - Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Mittelsachsenklasse - Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Muldental/Leipziger Land",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A - West - Herren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A Ost - Herren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Intersport-Höcke Kreisliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Talk-Point Kreisliga West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Intersport-Höcke Kreisliga Ost Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Talk-Point Kreisliga Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Talk-Point Kreisliga West Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sächs.Schweiz/Osterzgeb.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Schmiedeberger Gießerei - Kreisliga A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vogtland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Sparkassenvogtlandklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Richter-Bauelemente-Kreisliga  Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Richter-Bauelemente-Kreisliga  Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Zwickau",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisliga (B)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "brandible Stadtliga B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga - Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga - Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Muldental/Leipziger Land",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B Süd - Herren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B West - Herren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sächs.Schweiz/Osterzgeb.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Tecto Kreisliga B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vogtland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "AutoCentrum Carl Kreisliga B - Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Autohaus Thomas Schneider Kreisliga B - Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3.Kreisliga (C)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "brandible Stadtliga C",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Chemnitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Stadtklasse Herren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Stadtklasse Entscheidungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Erzgebirge",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. KK Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. KK West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.Kreisklasse St. 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Kreisklasse St. 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Meißen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse - Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse - Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sächs.Schweiz/Osterzgeb.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vogtland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.KK  Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.KK Staffel 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "heitech.net-Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "heitech.net-Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "heitech.net-Kreisklasse Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Zwickau",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Erzgebirge",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.KKL Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KKL West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.Kreisklasse St. 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Kreisklasse St. 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Meißen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vogtland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2. KK Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK  Staffel 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Zwickau",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2. Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga A-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesklasse Mitte A-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse Nord A-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse Ost A-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse West A-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Chemnitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KVFC - Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtoberliga A-Junioren Quali 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtoberliga A-Junioren Quali 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtoberliga A-Junioren Abstiegsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtoberliga A-Junioren Meisterrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Wir versichern Sachsen Stadtliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Meißen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A - Junioren - KOL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Nordsachsenliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sächs.Schweiz/Osterzgeb.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Sparkassenkreisoberliga A-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Zwickau",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisliga (A)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Erzgebirge",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Erzgebirgsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Wir versichern Sachsen Stadtklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Muldental/Leipziger Land",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A, A- Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Lorenz-Nuss-Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vogtland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Druckerei Schütz - Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Zwickau",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga B-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesklasse Mitte B-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse Nord B-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse Ost B-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse West B-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Chemnitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KVFC - Kreisoberliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KVFC - Kreisoberliga Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KVFC - Kreisoberliga Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtoberliga B-Junioren Quali 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtoberliga B-Junioren Quali 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtoberliga B-Junioren Abstiegsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtoberliga B-Junioren Meisterrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Meißen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B - Junioren KOL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Nordsachsenliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sächs.Schweiz/Osterzgeb.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Sparkassenkreisoberliga B Junioren Pool 1 Staffel  Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sparkassenkreisoberliga B Junioren Pool 1 Staffel West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sparkassenkreisoberliga B-Junioren Meisterstaffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sparkassenkreisoberliga B-Junioren Pool 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Zwickau",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisliga (A)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga A B-Junioren Quali 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtliga A B-Junioren Quali 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtliga A B-Junioren Abstiegsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtliga A B-Junioren Meisterrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Erzgebirge",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Erzgebirgsliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Erzgebirgsliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Muldental/Leipziger Land",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B- Junioren St. Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren St. Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Lorenz-Nuss-Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Lorenz-Nuss-Kreisliga Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vogtland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "VOWALON Kreisliga B-Junioren - Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "VOWALON Kreisliga B-Junioren - Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "VOWALON Kreisliga B-Junioren - Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "VOWALON Kreisliga B-Junioren - Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Zwickau",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.Kreisklasse Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Kreisklasse Staffel II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga C-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesklasse Mitte C-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse Nord C-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse Ost C-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse West C-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Chemnitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KVFC Fußball 9 - Kreisoberliga I Staffel 1 HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KVFC Fußball 9 - Kreisoberliga I Staffel 2 HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KVFC Fußball 9 - Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KVFC Fußball 9 - Platzierungsrunde 13 bis 19",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KVFC Fußball 9 - Platzierungsrunde 7 bis 12",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtoberliga C-Junioren 9gegen9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtoberliga C-Junioren Quali 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtoberliga C-Junioren Quali 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtoberliga C-Junioren 9gegen9 Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtoberliga C-Junioren Abstiegsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtoberliga C-Junioren Meisterrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Nordsachsenliga Großfeld",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Nordsachsenliga Kleinfeld",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sächs.Schweiz/Osterzgeb.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Sparkassenkreisoberliga C Junioren ST 1 Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sparkassenkreisoberliga C Junioren ST 1 West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sparkassenkreisoberliga C Junioren ST 2 Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sparkassenkreisoberliga C Junioren ST 2 West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sparkassenkreisoberliga C-Junioren Meisterstaffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sparkassenkreisoberliga C-Junioren Pool 2 Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sparkassenkreisoberliga C-Junioren Pool 2 Staffel B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Zwickau",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisliga (A)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga A C-Junioren Quali 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtliga A C-Junioren Quali 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtliga A C-Junioren Abstiegsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtliga A C-Junioren Meisterrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Erzgebirge",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Meisterstaffel Junioren - C 2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Meißen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C-Junioren Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C-Junioren Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Sonderstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Muldental/Leipziger Land",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C- Jun., Staffel Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C- Jun., Staffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jun., Staffel Süd-West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "AOK-Plus Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "AOK-Plus Kreisliga Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vogtland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Meisterrunde Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel III",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Zwickau",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisliga (B)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga B C-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Erzgebirge",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Norweger-Staffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Norweger - Staffel 2024",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsstaffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsstaffel West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.Kreisklasse Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Kreisklasse Staffel II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vogtland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Zwickau",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KKL Staffel 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.Kreisklasse Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Kreisklasse Staffel II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Talentespielrunde U13 VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-Talente-Spielrunde Nordost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde U13 Talenteliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde U13 Talenteliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesklasse Mitte D-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse Nord D-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse Ost D-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse West D-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Chemnitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KVFC Fußball 7 - Kreisoberliga HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KVFC Fussball 7 - Kreisoberliga FR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtoberliga D-Junioren Quali 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtoberliga D-Junioren Quali 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtoberliga D-Junioren Abstiegsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtoberliga D-Junioren Meisterrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtliga Staffel II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Nordsachsenliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "GWZ-Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sächs.Schweiz/Osterzgeb.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Sparkassenkreisoberliga Pool 1 Region Ost Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Sparkassenkreisoberliga Pool 1 Region Ost Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Sparkassenkreisoberliga Pool 1 Region Ost Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Sparkassenkreisoberliga Pool 1 Region West Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Sparkassenkreisoberliga Pool 1 Region West Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Sparkassenkreisoberliga Pool 1 Region West Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sparkassen-Kreisoberliga D-Junioren Meisterschaftstaffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sparkassen-Kreisoberliga D-Junioren Pool 2 Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sparkassen-Kreisoberliga D-Junioren Pool 2 Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sparkassen-Kreisoberliga D-Junioren Pool 2 Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sparkassen-Kreisoberliga D-Junioren Pool 2 Staffel D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sparkassen-Kreisoberliga D-Junioren Pool 2 Staffel E",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Zwickau",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Westsachsenliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisliga (A)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Chemnitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KVFC Fußball 7 - Kreisliga HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KVFC Fussball 7 - Kreisliga FR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga A D-Junioren Quali 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtliga A D-Junioren Quali 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtliga A D-Junioren Abstiegsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtliga A D-Junioren Meisterrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Erzgebirge",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Meisterstaffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterstaffel West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtklasse Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtklasse Staffel II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Meißen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D - Junioren Kreisliga A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Muldental/Leipziger Land",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A - D-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "GWZ-Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "GWZ-Kreisliga 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vogtland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "ORIZON Kreisklasse Meisterquali - Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "ORIZON Kreisklasse Meisterquali - Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Halbfinale 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Halbfinale 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spiele um Platz 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spiele um Platz 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Endspiele",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spiele um Platz 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Druckerei Schütz - Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Zwickau",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisliga (B)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga B D-Junioren Quali 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtliga B D-Junioren Quali 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtliga B D-Junioren Abstiegsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtliga B D-Junioren Meisterrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Muldental/Leipziger Land",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren - Staffel Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren - Staffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren - Staffel Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren - Staffel West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel Mitte",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel V",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz-Kreisliga, Meisterrunde Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz-Kreisliga, Meisterrunde Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz-Kreisliga, Platzierungsrunde Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz-Kreisliga, Platzierungsrunde Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz-Kreisliga, Platzierungsrunde Staffel III",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3.Kreisliga (C)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga C D-Junioren Quali 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtliga C D-Junioren Quali 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtliga C D-Junioren Abstiegsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtliga C D-Junioren Meisterrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Chemnitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KVFC Fußball 7 - 1. Kreisklasse HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KVFC Fussball 7 - 1. Kreisklasse FR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Stadtklasse D-Junioren Quali 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Stadtklasse D-Junioren Quali 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Stadtklasse D-Junioren Abstiegsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Stadtklasse D-Junioren Meisterrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Erzgebirge",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Staffel Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel Nordost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel Nordwest",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel Südost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel Südwest",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsstaffel Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsstaffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsstaffel Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsstaffel West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.Kreisklasse Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Kreisklasse Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Kreisklasse Staffel III",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Meißen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Staffel 1 QR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 2 QR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 3 QR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 4 QR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vogtland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren ORIZON Kreisklasse - Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren ORIZON Kreisklasse - Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren ORIZON Kreisklasse - Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren ORIZON Kreisklasse - Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "ORIZON Kreisklasse  Platzierungsquali KKl - Staffel D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "ORIZON Kreisklasse Platzierung - Plätze 33 bis 37",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "ORIZON Kreisklasse Platzierungsquali KKl - Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "ORIZON Kreisklasse Platzierungsquali KKl - Staffel E",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "ORIZON Kreisklasse Platzierungsquali KKl - Staffel F",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "ORIZON Kreisklasse Platzierungsquali KKl - Staffel G",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "ORIZON Kreisklasse Platzierungsquali KKl - Staffel H",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spiele um Platz 11",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spiele um Platz 13",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spiele um Platz 15",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spiele um Platz 17",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spiele um Platz 19",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spiele um Platz 21",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spiele um Platz 23",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spiele um Platz 25",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spiele um Platz 27",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spiele um Platz 29",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spiele um Platz 31",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spiele um Platz 9",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Zwickau",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Chemnitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KVFC Fußball 7 - 2. Kreisklasse HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KVFC Fussball 7 - 2. Kreisklasse FR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.Kreisklasse Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Kreisklasse Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Kreisklasse Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Kreisklasse Staffel IV",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Meißen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Jugend",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend 2.KKL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Chemnitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KVFC Fußball 7 - 3. Kreisklasse HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KVFC Fussball 7 - 3. Kreisklasse FR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "FPL Pool A Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "FPL Pool B Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "FPL Pool C Staffel I Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "FPL Pool C Staffel II Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "FPL Pool C Staffel III Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "FPL Pool C Staffel IV Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Liga A Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "FPL Pool A Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "FPL Pool B Staffel I Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "FPL Pool B Staffel II Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "FPL Pool C Staffel I Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "FPL Pool C Staffel II Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "FPL Pool C Staffel III Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Liga A Staffel I Rückrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sächs.Schweiz/Osterzgeb.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Sparkassenkreisoberliga Pool 1 Region Ost Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Sparkassenkreisoberliga Pool 1 Region Ost Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Sparkassenkreisoberliga Pool 1 Region Ost Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Sparkassenkreisoberliga Pool 1 Region West Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Sparkassenkreisoberliga Pool 1 Region West Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Sparkassenkreisoberliga Pool 1 Region West Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Sparkassenkreisoberliga Pool 2 Meisterrunde Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Sparkassenkreisoberliga Pool 2 Meisterrunde West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Sparkassenkreisoberliga Pool 2 Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Sparkassenkreisoberliga Pool 2 Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Sparkassenkreisoberliga Pool 2 Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Sparkassenkreisoberliga Pool 3 Meisterstaffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Sparkassenkreisoberliga Pool 3 Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Sparkassenkreisoberliga Pool 3 Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Sparkassenkreisoberliga Pool 3 Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Sparkassenkreisoberliga Pool 3 Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Zwickau",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Westsachsenliga - FPL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisliga (A)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Liga B Staffel I Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Liga B Staffel II Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Liga B Staffel I Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Liga B Staffel II Rückrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga - Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga - Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Muldental/Leipziger Land",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A-  E-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga St. I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga St. II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga St. III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga St. IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga St. V",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga St. VI",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Rohrnetz-Beil-Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rohrnetz-Beil-Kreisliga Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rohrnetz-Beil-Kreisliga Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rohrnetz-Beil-Kreisliga Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vogtland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga E-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Druckerei Schütz - Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Zwickau",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel 7",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisliga (B)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Muldental/Leipziger Land",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B - E-Junioren - Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B - E-Junioren St. Nord-Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B - E-Junioren St. Süd-West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B, E-Junioren- Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B, E-Junioren-Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B, E-Junioren-Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B, E-Junioren-West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel V",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel VI",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Meisterrunde, Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Meisterrunde, Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Platzierungsrunde, Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Platzierungsrunde, Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Platzierungsrunde, Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Platzierungsrunde, Staffel IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Platzierungsrunde, Staffel V",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Erzgebirge",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Staffel Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel Nordwest",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel Südwest",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Liga C Staffel I Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Liga C Staffel II Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Liga C Staffel I Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Liga C Staffel II Rückrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vogtland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "VISION - MAKLER E-Junioren Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "VISION - MAKLER E-Junioren Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "VISION - MAKLER E-Junioren Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "VISION - MAKLER E-Junioren Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "VISION - MAKLER Qualifikationsrunde C - Pl. 9 bis 16",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "VISION - MAKLER Qualifikationsrunde D - Pl. 9 bis 16",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "VISION - MAKLER Qualifikationsrunde E - Pl. 17 bis 24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "VISION - MAKLER Qualifikationsrunde F - Pl. 17 bis 24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "VISION - MAKLER Qualifikationsrunde G - Pl. 25 bis 32",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "VISION - MAKLER Qualifikationsrunde H - Pl. 25 bis 32",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "VISION - MAKLER Qualifikationsrunde I - Pl. 33 bis 40",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "VISION - MAKLER Qualifikationsrunde J - Pl. 33 bis 40",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "VISION - MAKLER Qualifikationsrunde KKL Meister B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "VISION-MAKLER Qualifikationsrunde KKL Meister A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Halbfinale um die Meisterschaft",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Halbfinale um die Meisterschaft",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Um Platz 11",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Um Platz 13",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Um Platz 15",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Um Platz 17",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Um Platz 19",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Um Platz 21",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Um Platz 23",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Um Platz 25",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Um Platz 27",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Um Platz 29",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Um Platz 31",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Um Platz 33",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Um Platz 35",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Um Platz 37",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Um Platz 39",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Um Platz 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Um Platz 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Um Platz 9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Endspiele",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spiele um Platz 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Liga D Staffel I Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Liga D Staffel II Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Liga D Staffel I Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Liga D Staffel II Rückrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "F-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Pool A Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pool B Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pool Blau Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pool C Staffel I Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pool C Staffel II Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pool D Staffel I Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pool D Staffel II Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pool D Staffel III Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pool D Staffel IV Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pool Grün Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pool Rot Hinrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pool A Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pool B Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pool Blau Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pool C Staffel I Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pool C Staffel II Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pool D Staffel I Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pool D Staffel II Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pool D Staffel III Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pool Grün Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pool Rot Staffel I Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pool Rot Staffel II Rückrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Zwickau",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Westsachsenliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisliga (A)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Westlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel V",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga Staffel VI",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga, Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga, Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga, Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga, Staffel IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga, Staffel V",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Druckerei Schütz - Kreisliga, Staffel VI",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Zwickau",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisliga (B)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Muldental/Leipziger Land",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren Borna 0st",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Borna-Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Borna-West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Döbeln Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Döbeln-Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Region Grimma",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Region Wurzen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Mittelsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Fair Play Liga Herbstrunde Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play Liga Herbstrunde Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play Liga Herbstrunde Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play Liga Herbstrunde Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play Liga Herbstrunde Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play Liga Herbstrunde Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play Liga Herbstrunde Staffel 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play Liga Frühjahrsrunderunde Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play Liga Frühjahrsrunderunde Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play Liga Frühjahrsrunderunde Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play Liga Frühjahrsrunderunde Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play Liga Frühjahrsrunderunde Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play Liga Frühjahrsrunderunde Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play Liga Frühjahrsrunderunde Staffel 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play Liga Frühjahrsrunderunde Staffel 8",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vogtland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kadner Immobilien - F-Junioren Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kadner Immobilien - F-Junioren Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kadner Immobilien - F-Junioren Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kadner Immobilien - F-Junioren Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kadner Immobilien - F-Junioren Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kadner Immobilien - Platzierung 41 bis 43",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kadner Immobilien - Qualifikationsrunde C - Pl. 11 bis 20",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kadner Immobilien - Qualifikationsrunde D - Pl. 11 bis 20",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kadner Immobilien - Qualifikationsrunde F - Pl. 21 bis 30",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kadner Immobilien - Qualifikationsrunde G - Pl. 31 bis 40",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kadner Immobilien - Qualifikationsrunde H - Pl. 31 bis 40",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kadner Immobilien - Qualifikationsrunde Meister A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kadner Immobilien - Qualifikationsrunde Meister B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kadner Immobilien -Qualifikationsrunde E - Pl. 21 bis 30",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Zwickau",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frauen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga Frauen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesklasse Frauen Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse Frauen Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse Frauen Süd/West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Sparkassenliga Frauen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtliga Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sächs.Schweiz/Osterzgeb.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Freizeitliga Frauen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisliga (A)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Erzgebirge",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Erzgebirgsliga Frauen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Mittelsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen - Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vogtland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadt Galerie Plauen Vogtlandklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Freizeitliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesklasse B-Jun Ost/West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse B-Jun. Nord",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesklasse C-Jun Ost/West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse C-Jun. Nord",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Mädchen-Liga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Freizeitsport",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "1.Kreisliga (A)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dresden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Feldschlößchen-Stadtliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtklasse",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Stadtliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Leipzig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelsachsen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren - Kleinfeld",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

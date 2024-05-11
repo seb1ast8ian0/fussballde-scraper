@@ -1,0 +1,2009 @@
+{
+  "name": "Saarland",
+  "label": "teamTypes",
+  "options": [
+    {
+      "name": "Altherren-B Ü40",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga A / Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Nordsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "AH-B Meisterschaft Nord/Ostsaar",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü 40 Kreismeisterschaft Süd 23/24",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü 40 Meisterschaft",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Altherren-A Ü32",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga A / Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Südsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü 32 Kreismeisterschaft Südsaar",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü 32 Meisterschaft Westsaar",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Herren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Saarland-Liga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Schröder-Liga Saar",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga Nord / Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Verbandsliga Süd / West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bezirksliga Blies/Nahe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Bezirksliga Ill/Theel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Bezirksliga Köllertal-Warndt",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Bezirksliga Merzig-Wadern",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Bezirksliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Bezirksliga Saarbrücken",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Bezirksliga Saarlouis",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga A / Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Nordsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A Blies/Nahe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A Ill/Theel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A Bliestal",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A Saarpfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A Köllertal-Warndt",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A Saarbrücken",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A Hochwald",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A Saar",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A Untere Saar",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga B / 1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Nordsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B Blies/Nahe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Nord",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B Bliestal",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Ost",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B Südsaar",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B Hochwald",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Saar",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Untere Saar",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Quali LL Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali LL Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali LL Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali LL Gruppe 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bezirksliga Saar",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga A / Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Nordsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Nord",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga - Ostsaar",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Ostsaar",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Quali Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Orientierungsrunde Westsaar",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Quali Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Relegation 1. Gr. 1 - 2. Gr. 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Relegation 1. Gr. 2 - 2. Gr. 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Relegation 1. Gr. 3 - 2. Gr. 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Relegation 1. Gr. 4 - 2. Gr. 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Relegation 1. Gr. 5 - 2. Gr. 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Relegation 1. Gr. 6 - 2. Gr. 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Relegation 1. Gr. 7 - 2. Gr. 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Relegation 1. Gr. 8 - 2. Gr. 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bezirksliga Saar",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga A / Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Nordsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Quali Gruppe A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe ",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Nordsaar",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B Jugend Quali Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B Jugend Quali Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 1 Ostsaar",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 2 Ostsaar",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Quali Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Orientierungsrunde Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren-Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Quali LL-Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali-LL-Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali-LL-Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali-LL-Gruppe 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bezirksliga Saar-1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Bezirksliga Saar",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga A / Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Nordsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Quali Gruppe A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Nordsaar",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Quali Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Ostsaar",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Quali Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Orientierungsrunde Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Orientierungsrunde Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Orientierungsrunde Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde Gruppe 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Ostsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C Jugend Pflichtfreundschaftsrunde Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pflichtfreundschaftsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C 7 - Spielrunde 1 (Pflichtfreundschaftsspiele)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C 7 - Spielrunde 1. (Pflichtfreundschaftsspiele)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Orientierungsrunde Gruppe 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Quali Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde Gruppe 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga A / Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Nordsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Quali Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Quali Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Gruppe 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Quali Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Orientierungsrunde Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Orientierungsrunde Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Orientierungsrunde Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Orientierungsrunde Gruppe 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Orientierungsrunde Gruppe 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Nordsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Gruppe 1 Pflichtfreundschaft",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 2  Pflichtfreundschaft",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D Junioren Gr. 1 Pflichtfreund",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D Junioren Gr. 2 Pflichtfreund",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Jugend Pflichtfreundschaft Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Pflichtfreundschaft Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pflichtfreundsrunde ",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D 7 - Jugend Spielrunde 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D 7 - Jugend Spielrunde 2 (neu)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D7 - Jugend Spielrunde 1.",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D7 - Jugend Spielrunde 2.",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Pfr -Spielrunde 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pfr -Spielrunde 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pfr -Spielrunde 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D9/D7 Pflichtfreundschaftsrunde 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D9/D7 Pflichtfreundschaftsrunde 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga A / Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Nordsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Jgd Quali Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jgd Quali Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jgd Quali Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jgd Quali Gruppe 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jgd Meisterschaft Gr 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jgd Meisterschaft Gr 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jgd Meisterschaft Gr 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jgd Meisterschaft Gr 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Quali Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Gruppe 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Gruppe 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Quali Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 6",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Orientierungsrunde Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Orientierungsrunde Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Orientierungsrunde Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Orientierungsrunde Gruppe 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Orientierungsrunde Gruppe 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Orientierungsrunde Gruppe 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 7",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Nordsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E, Pfl.fr., Gr. 1, Runde 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E, Pfl.fr., Gr. 2, Runde 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E, Pfl.fr., Gr. 3, Runde 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E, Pfl.fr., Gr. 4, Runde 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E, Pfl.fr., Gr. 5, Runde 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jgd PflFr Gr 1 Runde 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jgd PflFr Gr 2 Runde 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jgd PflFr Gr 3 Runde 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jgd PflFr Gr 4 Runde 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E Jugend Pflicht Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E Jugend Pflicht Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E Jugend Pflicht Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pflichtfreundschaftsrunde Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Pflichtfreundschaftsrunde Gruppe 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südsaar",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Spielrunde 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spielrunde 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spielrunde 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spielrunde 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spielrunde 1. (Pflichtfreundschaftsspiele)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spielrunde 2. (Pflichtfreundschaftsspiele)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spielrunde 3. (Pflichtfreundschaftsspiele)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spielrunde 4. (Pflichtfreundschaftsspiele)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frauen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bezirksliga Nordost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Bezirksliga Südost",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bezirksklasse Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Bezirksklasse Südost",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Quali Gruppe A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen 7er",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Juniorinnen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Quali Gruppe A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Juniorinnen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Saarland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Quali Gruppe A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Gruppe B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gruppe 2 untere",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

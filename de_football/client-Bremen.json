@@ -1,0 +1,1366 @@
+{
+  "name": "Bremen",
+  "label": "teamTypes",
+  "options": [
+    {
+      "name": "Alte-Herren Ü60",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremen-Stadt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Alte Herren Ü 60 Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sommerrunde 1.Keisklasse Ü60",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alte-Herren Ü50",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremen-Stadt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sommerrunde 1.Kreisklasse Ü50",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremen-Stadt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2. Kreisklasse Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sommerrunde 2.Kreisklasse Ü50",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremen-Stadt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "3. Kreisklasse Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sommerrunde 3.Kreisklasse Ü50",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alte-Herren Ü40",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremen-Stadt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sommerrunde 1.Keisklasse Ü40",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bremerhaven",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü40 Staffel 1 Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ü40 Staffel 2 Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ü40 Staffel 1 Sommerrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ü40 Staffel 2 Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremen-Stadt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2. Kreisklasse Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sommerrunde 2.Keisklasse Ü40",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremen-Stadt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "3. Kreisklasse Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sommerrunde 3.Keisklasse Ü40",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "4.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremen-Stadt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "4.  Kreisklasse Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sommerrunde 4.Keisklasse Ü40",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alte Herren Ü32",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremen-Stadt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Sommerrunde Ü32",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremen-Stadt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2. Kreisklasse",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Kreisklasse Ü32 Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Herren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bremen-Liga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisliga (A) / Stadtliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremen-Stadt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bremerhaven",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisliga (B)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremen-Stadt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3.Kreisliga (C)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremen-Stadt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremen-Stadt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremen-Stadt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2. Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-VL Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-VL Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-LL - Staffel A - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-LL - Staffel B - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-LL - Staffel 1 - Sommerrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-LL - Staffel 2 - Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Landesklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-1LK - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-1LK Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-VL Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-VL Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-BZL Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-BZL Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Bezirksklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-1BK Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-1BK - Staffel 1 - Sommerrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-1BK - Staffel 2 - Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Bezirksklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-2BK - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-2BK Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-VL Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-VL Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-BZL - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-BZL Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Bezirksklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-1BK - Staffel A - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-1BK - Staffel B - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-1BK - Staffel 1 - Sommerrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-1BK - Staffel 2 - Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Bezirksklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-2BK - Staffel A - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-2BK - Staffel B - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-2BK - Staffel C - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-2BK - Staffel A - Sommerrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-2BK - Staffel B - Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisliga (A) / Stadtliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremerhaven",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Stadtliga - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-VL Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-VL Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-BZL - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-BZL Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisliga (A) / Stadtliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremen-Stadt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-SL Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-SL Sommerunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bremerhaven",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga Winter",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Sommer",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremen-Stadt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-1KK - Nord/West - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-1KK - Ost/Süd - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-1KK - Nord/West - Sommerrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-1KK - Ost/Süd - Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bremerhaven",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KKl 1 Winter",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse 1 Sommer",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremen-Stadt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-2KK - Nord/West - St. A - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-2KK - Nord/West - St. B - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-2KK - Ost/Süd - St. A - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-2KK - Ost/Süd - St. B - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-2KK - Ost/Süd - St. C - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-2KK - Nord/West - Sommerrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-2KK - Staffel A - Ost/Süd - Sommerrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-2KK - Staffel B - Ost/Süd - Sommerrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-2KK - Staffel C - Ost/Süd - Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bremerhaven",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KKl. 2 Winter",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse 2 Sommer",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremen-Stadt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Staffel A1 - Bremen - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel A2 - Bremen - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel A1 - Sommerrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel A2 - Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bremerhaven",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga/KKL1 Winter",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KK1/Kreisliga Sommer",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremen-Stadt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Staffel B1 - Nord/West - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel B1 - Ost/Süd - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel B2 - Ost/Süd - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel B1 - Nord/West - Sommerrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel B1 - Ost/Süd - Sommerrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel B2 - Ost/Süd - Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bremerhaven",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KKl 2 Winter",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse 2 Sommer",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremen-Stadt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Staffel C1 - Nord/West - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel C1 - Ost/Süd - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel C2 - Nord/West - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel C2 - Ost/Süd - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel C3 - Ost/Süd - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel C4 - Ost/Süd - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel C1 - Nord/West - Sommerrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel C1 - Ost/Süd - Sommerrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel C2 - Nord/West - Sommerrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel C2 - Ost/Süd - Sommerrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel C3 - Nord/West - Sommerrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel C3 - Ost/Süd - Sommerrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel C4 - Ost/Süd - Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bremerhaven",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KKl 3 Winter",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse 3 Sommer",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "4.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bremerhaven",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KKl 4 Winter",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse 4 Sommer",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frauen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga - Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bezirksliga - Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Bezirksliga - Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Winterrunde Norweger",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sommerrunde Norweger",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Winterrunde Norweger",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Sommerrunde Norweger",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-LL Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-LL Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bremen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-LL Winterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-LL Sommerrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

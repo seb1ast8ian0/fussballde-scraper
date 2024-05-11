@@ -1,0 +1,4419 @@
+{
+  "name": "Brandenburg",
+  "label": "teamTypes",
+  "options": [
+    {
+      "name": "Alt-Senioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dahme/Fläming",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Alt-Senioren Ü40 Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Alt-Senioren Ü40 Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Alt-Senioren Ü50 Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Alt-Senioren Ü50 Staffel B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Ü50 Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Ü50 Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Ü60 2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Niederlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Alt-Senioren Ü50 KL NL",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Altherren Ü60 KL NL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü-40 Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ü-40 West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ü-50 Staffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ü-50 Staffel west",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Alt-Senioren Ü40 - Kreisliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Alt-Senioren Ü50 - Kreisliga Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Alt-Senioren Ü50 - Kreisliga Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Alt-Senioren Ü50 - Kreisliga Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Alt-Senioren Ü60 - Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Prignitz/Ruppin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Ü50 Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Ü50 Staffel B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Niederlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Alt-Senioren Ü50 1. KK",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Niederlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Alt-Senioren Ü50 2 KK S/O NL",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Alt-Senioren Ü50 2.KK N/W NL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Altherren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dahme/Fläming",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Altherren Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Ü 32",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Ü40 A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Ü40 B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Ü40 C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Ü40 D",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Niederlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Altherren Ü35 Kreisliga NL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü-35 Kreisliga Staffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ü-35 Kreisliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Altherren Ü35 - Kreisliga Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Altherren Ü35 - Kreisliga Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Altherren Ü35 - Kreisliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "SBB Altliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "SBB Altliga West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "SBB-Altherren Großfeld Meisterrunde 2023",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "SBB-Altherren Großfeld Platzierungsrunde 2023",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "SBB-Altherren Großfeld 2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Uckermark",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Altherren Ü35 Großfeld",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Altherren Ü40 Kleinfeld",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Niederlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Altherren Ü35 1.Kreisklasse NL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Prignitz/Ruppin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel D",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Niederlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.Kreisklasse N/W",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Kreisklasse S/O",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Herren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Brandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Brandenburgliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Brandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Brandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesklasse Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dahme/Fläming",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren Dahme/Fläming Liga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga Havelland",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Niederlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga Niederlausitz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ostbrandenburgliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Prignitz/Ruppin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Südbrandenburgliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Uckermark",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Uckermarkliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dahme/Fläming",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Niederlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Niederlausitz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Prignitz/Ruppin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga-Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga-Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Uckermark",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dahme/Fläming",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren 1. Kreisklasse Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren 1. Kreisklasse Staffel B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Niederlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.Kreisklasse Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Kreisklasse West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Prignitz/Ruppin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel III",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse-Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse-Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse-West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Uckermark",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2. Kreisklasse A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Kreisklasse B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Kreisklasse C",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Niederlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.Kreisklasse Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Kreisklasse West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2. Kreisklasse Staffel Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Kreisklasse Staffel Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Kreisklasse Staffel West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Brandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Brandenburgliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Brandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesklasse Nord/West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dahme/Fläming",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga  (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Niederlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A-Junioren FK Niederlausitz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Hauptrunde KL (SL Windisch)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Prignitz/Ruppin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A-Junioren Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A-Junioren Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Vorrunde Staffel 1 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde Staffel 2 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Gold (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Silber (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A/B-Liga (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Vorrunde 1 (SL Windisch)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 2 (SL Windisch)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde 1.KK (SL Windisch)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "AJ - SBB - U18",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Brandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Brandenburgliga B-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Brandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesklasse Nord/West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dahme/Fläming",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisliga HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Meisterrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga (Braun)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Niederlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Hauptrunde KL (SL Rödl)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Prignitz/Ruppin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren SBB Gruppe A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren SBB Gruppe B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dahme/Fläming",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B - Junioren Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Vorrunde Staffel 1 (Braun)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Vorrunde Staffel 2 (Braun)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Vorrunde Staffel 3 (Braun)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Kreisklasse Bronze St 1 (Braun)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Kreisklasse Bronze St 2 (Braun)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Kreisklasse Gold (Braun)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Kreisklasse Silber (Braun)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Vorrunde 1 (SL Rödl)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 2 (SL Rödl)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 3 (SL Rödl)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde 1.KK Gold (SL Rödl)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde 1.KK Silber (SL Rödl)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Brandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Brandenburgliga C-Junioren Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Brandenburgliga C-Junioren Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "BBL C Meisterrrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "BBL C Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Brandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesklasse Nord/West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dahme/Fläming",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren 11er Staffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren 9er Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren 9er Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren 9er Meisterrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "11er Kreisliga (Grothe-Benkenstein)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "9er Kreisliga (Grothe-Benkenstein)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Niederlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C Junioren Vorrunde Staffel Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Junioren Vorrunde Staffel Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde C-Junioren 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde C-Junioren 23/24",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Hauptrunde KL (SL Lemke)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Prignitz/Ruppin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C-Junioren (verkleinertes Großfeld)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C-Junioren Staffel A (Großfeld)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C-Junioren Staffel B (Großfeld)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "CJ - SBB - Staffel A (NwM 9)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "CJ - SBB - Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "CJ - SBB - Staffel C",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Uckermark",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dahme/Fläming",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren 9er Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "11er Hinrunde St 1 (Grothe-Benkenstein)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "11er Hinrunde St 2 (Grothe-Benkenstein)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "11er Hinrunde St 3 (Grothe-Benkenstein)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "9er Vorrunde St 1 (Grothe-Benkenstein)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "9er Vorrunde St 2 (Grothe-Benkenstein)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "9er Vorrunde St 3 (Grothe-Benkenstein)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "11er 1.KK RR St 1 (Grothe-Benkenstein)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "11er 1.KK RR St 2 (Grothe-Benkenstein)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "9er 1.KK Rückrunde (Grothe-Benkenstein)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Vorrunde 1 (SL Lemke)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 2 (SL Lemke)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 3 (SL Lemke)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 4 (SL Lemke)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde 1.KK (SL Lemke)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse Staffel Ost (C 1:7)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel West (C 1:7)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde Kreisklasse (1:7)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Kreisklasse (1:7)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "11er 2.KK Rückrunde St 1 (Grothe-Benkenstein",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "11er 2.KK Rückrunde St 2 (Grothe-Benkenstein",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "9er 2.KK Rückrunde (Grothe-Benkenstein",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Hauptrunde 2.KK Gold (SL Lemke)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde 2.KK Silber (SL Lemke)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Brandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A1 9gg9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A2 9gg9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A3 9gg9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A4 9gg9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A5 9gg9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A6 8gg8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A7 8gg8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A8 8gg8",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dahme/Fläming",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren RR Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2. Serie Kreisliga St A (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Serie Kreisliga St B (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Serie Kreisliga St C (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde Kreisliga St 1 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde Kreisliga St 2 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde Kreisliga St 3 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Niederlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D - Junioren Kreisliga Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D - Junioren Kreisliga Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D - Junioren PR 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Meisterrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Hauptrunde KL-Staffel 1 (SL Fischer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde KL-Staffel 2 (SL Lüdke)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Vorrunde Staffel Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde Staffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde Staffel West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Prignitz/Ruppin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga D-Junioren Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga D-Junioren Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga D-Junioren Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga D-Junioren Staffel D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga D-Junioren Staffel E",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde D-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Staffel D",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren SBBliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Uckermark",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde D-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde D-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dahme/Fläming",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren 1. Kreisklasse Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren 1. Kreisklasse Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren 1. Kreisklasse Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren 1. Kreisklasse Staffel D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren 1. Kreisklasse Staffel E",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren RR 1. Kreisklasse Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren RR 1. Kreisklasse Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren RR 1. Kreisklasse Staffel C",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.KK 1.Serie Staffel 1 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.KK 1.Serie Staffel 2 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.KK 1.Serie Staffel 3 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.KK 1.Serie Staffel 4 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.KK 1.Serie Staffel 5 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Serie 1.KK St A (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Serie 1.KK St B (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Serie 1.KK St C (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Serie 1.KK St D (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 1.KK St A (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 1.KK St B (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 1.KK St C (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 1.KK St D (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Niederlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D - Junioren Kreisklasse Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D - Junioren Kreisklasse Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D - Junioren PR 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D - Junioren PR 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Vorrunde 1 (SL Fischer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 2 (SL Fischer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 3 (SL Fischer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 4 (SL Lüdke)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 5 (SL Lüdke)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 6 (SL Lüdke)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde 1.KK-Staffel 1 (SL Fischer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde 1.KK-Staffel 2 (SL Lüdke)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Vorrunde Kreisklasse Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde Kreisklasse Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde Kreisklasse Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde Kreisklasse Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde Kreisklasse West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde Kreisklasse Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde Kreisklasse Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde Kreisklasse Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde Kreisklasse West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel C",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dahme/Fläming",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren RR 2. Kreisklasse Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren RR 2. Kreisklasse Staffel B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.KK NO 1.Serie Staffel 1 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK NO 1.Serie Staffel 2 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK NO 1.Serie Staffel 3 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK NO 1.Serie Staffel 4 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK NO 1.Serie Staffel 5 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK NW 1.Serie Staffel 1 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK NW 1.Serie Staffel 2 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK NW 1.Serie Staffel 3 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK Süd 1.Serie Staffel 1 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK Süd 1.Serie Staffel 2 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK Süd 1.Serie Staffel 3 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK Süd 1.Serie Staffel 4 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK Süd 1.Serie Staffel 5 (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Serie 2.KK St A (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Serie 2.KK St B (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Serie 2.KK St C (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Serie 2.KK St D (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Serie 2.KK St E (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 2.KK St A (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 2.KK St B (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 2.KK St C (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 2.KK St D (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 2.KK St E (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Hauptrunde 2.KK-Staffel 1 (SL Fischer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde 2.KK-Staffel 2 (SL Lüdke)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2. Serie 3.KK St A (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Serie 3.KK St B (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Serie 3.KK St C (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Serie 3.KK St D (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Serie 3.KK St E (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 3.KK St A (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 3.KK St B (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 3.KK St C (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 3.KK St D (Wedemeyer)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga St A (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisoberliga St B (Pohlann)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Niederlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E - Junioren Kreisoberliga Südbrandenburg",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dahme/Fläming",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren RR Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.Serie Kreisliga St A (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie Kreisliga St B (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie Kreisliga St C (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie Kreisliga St D (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde Kreisliga St A (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde Kreisliga St B (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde Kreisliga St C (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde Kreisliga St D (Pohlann)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Niederlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E - Junioren Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E - Junioren Kreisliga Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E - Junioren Kreisliga Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E - Junioren Kreisliga Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E - Junioren Kreisliga Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E - Junioren MR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E - Junioren PR 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E - Junioren PR 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E - Junioren PR 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E - Junioren PR 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Hauptrunde KL-Staffel 1 (SL Jung)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde KL-Staffel 2 (SL Allonge)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Vorrunde Kreisliga Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde Kreisliga Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde Kreisliga Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde Kreisliga West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Prignitz/Ruppin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga E-Junioren Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E-Junioren Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E-Junioren Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E-Junioren Staffel D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E-Junioren Staffel E",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E-Junioren Staffel F",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde E-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Staffel D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Staffel E",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Uckermark",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisliga Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga Staffel D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Platzierungsrunde 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Platzierungsrunde 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Platzierungsrunde 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dahme/Fläming",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren 1. Kreisklasse Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1. Kreisklasse Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1. Kreisklasse Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1. Kreisklasse Staffel D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1. Kreisklasse Staffel E",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1. Kreisklasse Staffel F",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren TWIN",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren RR 1. Kreisklasse Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren RR 1. Kreisklasse Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren RR 1. Kreisklasse Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren RR 1. Kreisklasse Staffel D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren RR TWIN",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.KK 1. Serie St 1 (Pust-v. T.)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.KK 1. Serie St 2 (Pust-v. T.)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.KK 1. Serie St 3 (Pust-v. T.)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.KK 1. Serie St 4 (Pust-v. T.)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.KK 1. Serie St 5 (Pust-v. T.)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.KK 1. Serie St 6 (Pust-v. T.)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 1.KK St A (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 1.KK St B (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 1.KK St C (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 1.KK St D (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 1.KK St A (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 1.KK St B (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 1.KK St C (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 1.KK St D (Pohlann)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Vorrunde 1 (SL Jung)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 2 (SL Jung)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 3 (SL Jung)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 4 (SL Jung)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 5 (SL Jung)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 6 (SL Allonge)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 7 (SL Allonge)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 8 (SL Allonge)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 9 (SL Allonge)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde 1.KK-Staffel 1 (SL Jung)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde 1.KK-Staffel 2 (SL Allonge)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Vorrunde Kreisklasse Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde Kreisklasse Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde Kreisklasse Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde Kreisklasse Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde Kreisklasse West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde Kreisklasse Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde Kreisklasse Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde Kreisklasse Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde Kreisklasse West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel E",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "EJ_Meisterrunde_FKSBB",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "EJ_Platzierungsrunde_Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "EJ_Platzierungsrunde_Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "EJ_Platzierungsrunde_Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "EJ_Platzierungsrunde_Staffel D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "EJ_Platzierungsrunde_Staffel E",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "EJ_Platzierungsrunde_Staffel F",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dahme/Fläming",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren RR 2. Kreisklasse Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren RR 2. Kreisklasse Staffel B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.KK NO 1. Serie St 1 (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK NO 1. Serie St 2 (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK NO 1. Serie St 3 (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK NO 1. Serie St 4 (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK NO 1. Serie St 5 (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK NW 1. Serie St 1 (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK NW 1. Serie St 2 (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK NW 1. Serie St 3 (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK NW 1. Serie St 4 (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK NW 1. Serie St 5 (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK Süd 1. Serie St 1 (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK Süd 1. Serie St 2 (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK Süd 1. Serie St 3 (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.KK Süd 1. Serie St 4 (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 2.KK St A (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 2.KK St B (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 2.KK St C (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 2.KK St D (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 2.KK St A (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 2.KK St B (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 2.KK St C (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 2.KK St D (Pohlann)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Hauptrunde 2.KK-Staffel 1 (SL Jung)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde 2.KK-Staffel 2 (SL Allonge)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde 2.KK-Staffel 3 (SL Allonge)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.Serie 3.KK Nord St A (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 3.KK Nord St B (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 3.KK Nord St C (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 3.KK Nord St D (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 3.KK Süd  St C  (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 3.KK Süd St A (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 3.KK Süd St B (Guido Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 3.KK St A (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 3.KK St B (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 3.KK St C (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 3.KK St D (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 3.KK St E (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 3.KK St F (Pohlann)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Hauptrunde 3.KK-Staffel 1 (SL Jung)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde 3.KK-Staffel 2 (SL Jung)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde 3.KK-Staffel 3 (SL Allonge)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "F-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Rückrunde Kreisliga St A (Cornelia Peters)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde Kreisliga St B (Cornelia Peters)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Niederlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga F - Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Hauptrunde KL-Staffel 1 (SL Goerlich)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde KL-Staffel 2 (SL Allonge)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Vorrunde Staffel Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde Staffel Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde Staffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde Staffel Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde Staffel West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde Staffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde Staffel West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Staffel Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Staffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Staffel West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Prignitz/Ruppin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren 1:4 Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1:4 Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1:4 Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1:4 Staffel D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1:6 Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1:6 Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1:6 Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1:6 Staffel D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1:6 Staffel E",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1:6 Staffel F",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterstaffel F-Junioren 1:4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterstaffel F-Junioren 1:6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsstaffel A F-Junioren 1:4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsstaffel A F-Junioren 1:6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsstaffel B F-Junioren 1:4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsstaffel B F-Junioren 1:6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsstaffel C F-Junioren 1:6",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel D",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dahme/Fläming",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren Fairplay Liga Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Fairplay Liga Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Fairplay Liga Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Fairplay Liga Staffel D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Fairplay TWIN A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Fairplay TWIN B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren RR Fairplay Liga Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren RR Fairplay Liga Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren RR Fairplay Liga Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren RR Fairplay Liga Staffel D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren RR Fairplay Liga Staffel E",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren RR Fairplay TWIN",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. KK 1. Serie St 1 (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. KK 1. Serie St 2 (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. KK 1. Serie St 3 (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 1.KK St A (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 1.KK St B (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 1.KK St C (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 1.KK St D (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 1.KK St A (Peters)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 1.KK St B (Peters)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 1.KK St C (Peters)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Niederlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisklasse Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisklasse Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F - Junioren PR 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F - Junioren PR 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F - Junioren PR 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F - Junioren PR 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Vorrunde 1 (SL Goerlich)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 2 (SL Goerlich)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 3 (SL Goerlich)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 4 (SL Goerlich)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 5 (SL Goerlich)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 6 (SL Allonge)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunde 7 (SL Allonge)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde 1.KK-Staffel 1 (SL Goerlich)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde 1.KK-Staffel 2 (SL Allonge)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2. KK 1. Serie NO St 1 (Scheler)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. KK 1. Serie NO St 2 (Scheler)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. KK 1. Serie NO St 3 (Peters)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. KK 1. Serie NO St 4 (Peters)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. KK 1. Serie NW St 1 (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. KK 1. Serie NW St 2 (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. KK 1. Serie NW St 3 (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. KK 1. Serie NW St 4 (Pohlann)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. KK 1. Serie Süd St 1 (Stella Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. KK 1. Serie Süd St 2 (Stella Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 2.KK St A (Peters)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 2.KK St B (Peters)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 2.KK St C (Peters)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 2.KK St D (Peters)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 2.KK St A (Cornelia Peters)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 2.KK St B (Cornelia Peters)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 2.KK St C (Cornelia Peters)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Hauptrunde 2.KK-Staffel 1 (SL Goerlich)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde 2.KK-Staffel 2 (SL Goerlich)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde 2.KK-Staffel 3 (SL Goerlich)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.Serie 3.KK St A (Scheler)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 3.KK St B (Scheler)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 3.KK St C (Scheler)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 3.KK St D (Stella Luisa Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Serie 3.KK St E (Stella Luisa Löhst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 3.KK St A (Silke Scheler)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 3.KK St B (Silke Scheler)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 3.KK St C (Silke Scheler)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde 3.KK St D (Silke Scheler)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frauen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Brandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Dahme/Fläming",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Havelland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Kreisliga Kleinfeld (Kerstin Grothe-Benkenstein)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Frauen Großfeld (Kerstin Grothe-Benkenstein)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Niederlausitz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Frauen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Oberhavel/Barnim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Frauen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Prignitz/Ruppin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Frauen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "SBB-Frauen-Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Uckermark",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Frauen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Ostbrandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Brandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Brandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Brandenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga D-Juniorinnen Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga D-Juniorinnen Plazierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

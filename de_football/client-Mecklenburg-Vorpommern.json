@@ -1,0 +1,1929 @@
+{
+  "name": "Mecklenburg-Vorpommern",
+  "label": "teamTypes",
+  "options": [
+    {
+      "name": "Alte Herren Ü60",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Warnow",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "AH Ü60 Warnow",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alte Herren Ü50",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Warnow",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "AH Ü50 Warnow St. I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "AH Ü50 Warnow St. II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alte Herren Ü40",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Warnow",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "AH Ü40 Warnow St. I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "AH Ü40 Warnow St. II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alte Herren Ü35",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Mecklenburg. Seenplatte",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga Alte Herren ü35",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordvorpommern-Rügen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KOL Ü35 Alte Herren Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KOL Ü35 Alte Herren Staffel II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schwerin-Nordwestmeckl.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga AH Ü35",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Warnow",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "AH Ü35 Warnow St. I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "AH Ü35 Warnow St. II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "AH Ü35 Warnow St. III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "AH Ü35 Warnow St. IV",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westmecklenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KOL AH Ü35 St I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KOL AH Ü35 St II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KOL AH Ü35 St III",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Mecklenburg. Seenplatte",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KL AHü35",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schwerin-Nordwestmeckl.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga AH Ü35",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vorpommern-Greifswald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Alte Herren Ü 35 Staffel Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Alte Herren Ü 35 Staffel Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Schwerin-Nordwestmeckl.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse AH Ü35",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Herren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mecklenburg-Vorpommern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga Herren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mecklenburg-Vorpommern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga Ost Herren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga West Herren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mecklenburg-Vorpommern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesklasse I Herren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse II Herren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse III Herren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesklasse IV Herren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Mecklenburg. Seenplatte",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KOL MSP Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KOL MSP Staffel II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordvorpommern-Rügen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga Herren Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisoberliga Herren Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Abstiegsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterschaftsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schwerin-Nordwestmeckl.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga SN - NWM",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vorpommern-Greifswald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Warnow",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren KOL St. I Warnow",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren KOL St. II Warnow",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westmecklenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KOL WM",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Mecklenburg. Seenplatte",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel III",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordvorpommern-Rügen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Herren Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Herren Staffel II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schwerin-Nordwestmeckl.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga SN - NWM",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vorpommern-Greifswald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga III",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Warnow",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren KL St. I Warnow",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren KL St. II Warnow",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westmecklenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KL WM Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL WM Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL WM West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Schwerin-Nordwestmeckl.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. KK   SN -NWM",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Warnow",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren KK St. I Warnow",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren KK St. II Warnow",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mecklenburg-Vorpommern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga A-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mecklenburg-Vorpommern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "OSPA-Liga A-Junioren Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "WEMAG-Liga A-Junioren Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "mele-Liga A-Junioren Staffel III",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Schwerin-Nordwestmeckl.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga A-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mecklenburg-Vorpommern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga B-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mecklenburg-Vorpommern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "OSPA-Liga B-Junioren Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "WEMAG-Liga B-Junioren Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "mele-Liga I B-Junioren Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "mele-Liga II B-Junioren Staffel IV",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Nordvorpommern-Rügen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga B-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schwerin-Nordwestmeckl.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisoberliga SN-NWM",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Warnow",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KOL B-Jun. Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KOL B-Jun. Staffel II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westmecklenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kurzurlaub.de-Liga B-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Mecklenburg. Seenplatte",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vorpommern-Greifswald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mecklenburg-Vorpommern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga C-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mecklenburg-Vorpommern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "OSPA-Liga C-Junioren Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "WEMAG-Liga C-Junioren Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "mele-Liga C-Junioren Staffel III",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Nordvorpommern-Rügen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga C-Junioren I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisoberliga C-Junioren II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schwerin-Nordwestmeckl.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisoberliga St.I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisoberliga St.II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Warnow",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KOL C-Jun. St. 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KOL C-Jun. St. 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jun. KOL Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jun. KOL Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westmecklenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kurzurlaub.de-Liga C-Junioren Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kurzurlaub.de-Liga C-Junioren West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Mecklenburg. Seenplatte",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisliga I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisliga II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vorpommern-Greifswald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Warnow",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KL C-Jun. St. 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL C-Jun. St. 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Vorpommern-Greifswald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mecklenburg-Vorpommern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga D-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mecklenburg-Vorpommern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "OSPA-Liga D-Junioren Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "WEMAG-Liga D-Junioren Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "mele-Liga I D-Junioren Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "mele-Liga II D-Junioren Staffel IV",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Nordvorpommern-Rügen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga  D-Junioren Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisoberliga D-Junioren Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisoberliga D-Junioren Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisoberliga D-Junioren Staffel IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisoberliga D-Junioren Staffel V",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Warnow",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KOL D-Jun.",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westmecklenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kurzurlaub.de-Liga D-Junioren ST I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kurzurlaub.de-Liga D-Junioren ST II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kurzurlaub.de-Liga D-Junioren ST III",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Mecklenburg. Seenplatte",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga St. I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga St. II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga St. III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga St. IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Bronze-Staffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Gold-Staffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platin-Staffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Silber-Staffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schwerin-Nordwestmeckl.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "TeamSportCorner Kreisliga- D-Junioren St.I (Verkürztes Großfeld)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "TeamSportCorner Kreisliga- D-Junioren St.II (Verkürztes Großfeld)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "TeamSportCorner Kreisliga- D-Junioren St.III (Verkürztes Großfeld)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde III",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vorpommern-Greifswald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Warnow",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KL D-Jun. Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL D-Jun. Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL D-Jun. Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL D-Jun. Staffel IV",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Nordvorpommern-Rügen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga E-Junioren Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisoberliga E-Junioren Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisoberliga E-Junioren Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisoberliga E-Junioren Staffel IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisoberliga E-Junioren Staffel V",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schwerin-Nordwestmeckl.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westmecklenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kurzurlaub.de-Liga E-Junioren I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kurzurlaub.de-Liga E-Junioren II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kurzurlaub.de-Liga E-Junioren III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kurzurlaub.de-Liga E-Junioren IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kurzurlaub.de-Liga E-Junioren V",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kurzurlaub.de-Liga E-Junioren VI",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kurzurlaub.de-Liga KOL Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kurzurlaub.de-Liga KOL West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Mecklenburg. Seenplatte",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisliga St. I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga St. II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga St. III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga St. IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga St. V",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schwerin-Nordwestmeckl.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Jun. Kreisliga Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. Kreisliga Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. Kreisliga Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. Kreisliga Staffel IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga PLZR I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga PLZR II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga PLZR III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga PLZR IV",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vorpommern-Greifswald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Warnow",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KL E-Jun. St. I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL E-Jun. St. II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL E-Jun. St. III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E - Junioren KL Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E - Junioren KL Platzierungsstaffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E - Junioren KL Platzierungsstaffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westmecklenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kurzurlaub.de-Liga KL Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kurzurlaub.de-Liga KL West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Warnow",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.KK E-Jun. ST. II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.KK E-Jun. St. I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.KK E-Jun. St. III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.KK E-Jun. St. IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.KK E-Jun. St. V",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren KK Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren KK Platzierungsstaffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren KK Platzierungsstaffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren KK Platzierungsstaffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren KK Platzierungsstaffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westmecklenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kurzurlaub.de-Liga KK Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kurzurlaub.de-Liga KK West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "F-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Nordvorpommern-Rügen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren FPL Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren FPL Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren FPL Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren FPL Staffel IV",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westmecklenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kurzurlaub.de Fairplayliga I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kurzurlaub.de Fairplayliga II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kurzurlaub.de Fairplayliga III",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Mecklenburg. Seenplatte",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel IV",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schwerin-Nordwestmeckl.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren Kreisliga Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisliga Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisliga Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisliga Staffel IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisliga Staffel V",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisliga PLZR I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisliga PLZR II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisliga PLZR III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisliga PLZR IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisliga PLZR V",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vorpommern-Greifswald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Warnow",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KL F-Jun. St. 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL F-Jun. St. 10",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL F-Jun. St. 11",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL F-Jun. St. 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL F-Jun. St. 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL F-Jun. St. 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL F-Jun. St. 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL F-Jun. St. 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL F-Jun. St. 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL F-Jun. St. 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL F-Jun. St. 9",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "G-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Nordvorpommern-Rügen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "G-Junioren Festival Festland I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren Festival Festland II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frauen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mecklenburg-Vorpommern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Schwerin-Nordwestmeckl.",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Vorpommern-Greifswald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga Frauen/Mädchen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Warnow",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KL Frauen Rügen",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL Frauen Warnow",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Frauen KFV Warnow Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Frauen KFV Warnow Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mecklenburg-Vorpommern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga B-Juniorinnen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

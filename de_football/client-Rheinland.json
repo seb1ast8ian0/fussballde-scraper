@@ -1,0 +1,3461 @@
+{
+  "name": "Rheinland",
+  "label": "teamTypes",
+  "options": [
+    {
+      "name": "Herren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Rheinlandliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Rheinland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Rheinlandliga Herren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Rheinland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bezirksliga Mitte Herren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Bezirksliga Ost Herren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Bezirksliga West Herren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eifel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A6",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Hunsrück/Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A7",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Koblenz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A8",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein/Ahr",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein/Lahn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Trier/Saarburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A9",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Wied",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga B",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eifel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B9",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Hunsrück/Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B10",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B11",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Koblenz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B6",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B12",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B13",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein/Ahr",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein/Lahn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B7",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Trier/Saarburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B14",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B15",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Wied",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga C",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eifel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C15",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C16",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C19",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Hunsrück/Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C18",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Koblenz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C11",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C13",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C9",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C17",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C20",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein/Ahr",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C10",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C8",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein/Lahn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C12",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C14",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Trier/Saarburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C21",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C22",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C23",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Wied",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C7",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Reserveklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eifel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Reserveklasse Eifel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Trier/Saarburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Reserveklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Reserveklasse 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Wied",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Reserveklasse WW/Wied",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Rheinlandliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Rheinland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Rheinlandliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Rheinlandliga Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Entscheidungsspiel um Platz 5 der Rheinlandliga Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Rheinlandliga Platzierungsstaffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Zwischenrunde Meisterstaffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Zwischenrunde Meisterstaffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Rheinlandliga Meisterstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Rheinland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Bezirksliga Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Bezirksliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Bezirksliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Leistungsklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Koblenz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Relegation A-Junioren BZL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eifel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Qualifikation zur A-BZL",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Eifel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Hunsrück/Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Relegation zur A-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Koblenz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Meisterschaft A- Junioren Kreis Koblenz / Hu-Mo",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Jugend Entscheidungsspiel A-Jgd-BZL",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Mosel/HuMo",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein/Ahr",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Rhein/Ahr",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein/Lahn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Rhein/Lahn/Wied",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Trier/Saarburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Relegation zur A-Jugend Bezirksliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Kreisliga Trier-Saarburg",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Relegation zur A-BZL",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren WW-Wied/Sieg",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Wied",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Relegation zur A- BZL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Rheinlandliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Rheinland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Rheinlandliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Rheinlandliga Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Zwischenrunde Meisterstaffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Zwischenrunde Meisterstaffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Zwischenrunde Platzierungsstaffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Zwischenrunde Platzierungsstaffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Rheinlandliga Meisterstaffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Rheinlandliga, Platzierungsstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Rheinland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Bezirksliga Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Bezirksliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Bezirksliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Leistungsklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Koblenz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Relegation B-Junioren BZL",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Leistungsklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein/Ahr",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Leistungsklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Trier/Saarburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Jgd Kreismeister",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eifel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Qualifikation zur B-BZL",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B Junioren 9er",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B9-Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Hunsrück/Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Relegation zur B-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Koblenz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Qualifizierungsrunde Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifizierungsrunde Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Relegationsspiel zur B-Jugend -- -BZL Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Jugend Kreisklasse Mosel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein/Ahr",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Relegation B-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein/Lahn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Meisterschaft",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Trier/Saarburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Relegation zur B-Jugend Bezirksliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisklasse",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Qualifikation Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Qualifikation Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Jgd Kreisklasse I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Jgd Kreisklasse II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Relegation zur B-BZL",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren KKL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Wied",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Relegation zur B-BZL",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Qualifizierungsrunde Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Qualifizierungsrunde Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Meisterrunde WW/Wied",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Platzierungsrunde WW/Wied",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Rheinlandliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Rheinland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Rheinlandliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Rheinlandliga Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Zwischenrunde Meisterstaffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Zwischenrunde Meisterstaffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Zwischenrunde Platzierungsstaffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Zwischenrunde Platzierungsstaffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Rheinlandliga Meisterstaffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Rheinlandliga Platzierungsstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Rheinland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Bezirksliga Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Bezirksliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Bezirksliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Leistungsklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eifel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Meisterrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Hunsrück/Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Leistungsklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Koblenz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Juniore Leistungsklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Jugend Leistungsstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein/Ahr",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Leistungsklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Trier/Saarburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Jugend Kreismeister",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eifel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Qualifikation zur C-BZL",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-11 Orientierung Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-11 Orientierung Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-9 Kreisklasse",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren 9er Kreisrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Hunsrück/Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Relegation zur C-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Quali I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Quali II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Quali III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Koblenz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Quali-Runde Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali-Runde Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali-Runde Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Hauptrunde Staffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren 11er Staffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren 11er Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren 9er Kreisklasse",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jugend - Standardstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein/Ahr",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Relegation C-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C9-/C7-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C9-/C7-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C9-/C7-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein/Lahn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Meisterschaft",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Trier/Saarburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Entscheidungsspiel zur C-Jugend Bezirksliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jgd Kreisklasse II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jgd. Qualistaffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jgd. Qualistaffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-jgd. Kreisklasse I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jgd Kreisklasse III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jgd Kreisklasse IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jugend Staffelsieger",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Relegation zur C-BZL",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Play-Off Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Play-Off Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Meisterrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Wied",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Relegation zur C-BZL",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Qualifizierungsrunde Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Qualifizierungsrunde Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Qualifizierungsrunde Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Entscheidungsspiel C-Junioren Quali Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Rheinlandliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Rheinland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Rheinlandliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Rheinlandliga Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Rheinlandliga, Meisterstaffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Rheinlandliga, Platzierungsstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Rheinland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Bezirksliga Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Bezirksliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Bezirksliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Leistungsklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eifel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Leistungsklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Leistungsklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Hunsrück/Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Leistungsklasse A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Leistungsklasse B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Koblenz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Leistungsklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Leistungsklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein/Ahr",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D9-Junioren Leistungsklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D9-Junioren Leistungsklasse 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Trier/Saarburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreismeisterstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren LK",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eifel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Qualifikation zur D-BZL",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9 Orientierung Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9 Orientierung Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9 Orientierung Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9 Orientierung Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9 Orientierung Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Hunsrück/Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Quali I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Quali II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Quali III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Quali IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Quali V",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse C",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Koblenz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Quali Runde Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Runde Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Runde Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Runde Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Runde Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Runde Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali Runde Staffel 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Hauptrunde Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Hauptrunde Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Hauptrunde Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Hauptrunde Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Entscheidungsspiel D-/E-Jgd zur D-Jugend BZL",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Play Off Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Play Off Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Play Off Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Play Off Staffel IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein/Ahr",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Relegation D-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D7-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D9-Junioren Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D9-Junioren Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D9-Junioren Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D9-Junioren Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D9-Junioren Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D9-Junioren Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Entscheidungsspiel Platz 2 D9-Junioren Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Entscheidungsspiel Platz 2 D9-Junioren Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D7-Junioren Kreisklasse",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D9-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D9-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D9-Junioren Kreisklasse 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D9-Junioren Kreisklasse 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D9-Junioren Kreisklasse 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein/Lahn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Qualifizierungsrunde Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Qualifizierungsrunde Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Entscheidungsspiel um Platz 3 der Qualirunde Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Meisterstaffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Platzierungsstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Trier/Saarburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-7er Kreisliga Staffel Vorrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Kreisliga Staffel Vorrunde I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Kreisliga Staffel Vorrunde II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Kreisliga Staffel Vorrunde III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren KM-Quali Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren KM-Quali Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-7er Kreismeisterstaffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Kreisliga Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Kreisliga Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Kreisliga Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Kreisliga Staffel IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Kreisliga Staffel V",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Kreisliga Staffel VI",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren KKL Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren KKL Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Entscheidungsspiele D-J. KKL Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisrunde 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisrunde 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisrunde 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Wied",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Entscheidungsspiel zur D-Bezirksliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Qualifizierungsrunde Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Qualifizierungsrunde Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Qualifizierungsrunde Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Qualifizierungsrunde Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Qualifizierungsrunde Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Qualifizierungsrunde Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde 6",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Leistungsklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eifel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Jugend Orientierung Leistungsklasse",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E -Junioren Leistungsklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E -Junioren Leistungsklasse Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Leistungsklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Hunsrück/Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Leistungsklasse A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Leistungsklasse B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Jugend Leistungsklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein/Ahr",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Leistungsklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Leistungsklasse 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Trier/Saarburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreismeisterstaffel 7er",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreismeisterstaffel E 5er",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eifel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-5 Kreisklasse",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Orientierung Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Orientierung Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Orientierung Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Orientierung Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Orientierung Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Orientierung Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse E 5 Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse E 5 Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Hunsrück/Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Quali I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali V",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali VI",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali VII",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga D",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Koblenz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisstaffel E5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreis-Staffel 1  RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreis-Staffel 2 RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreis-Staffel 3 RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreis-Staffel 4 RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreis-Staffel 5 RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Leistungsklasse 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Rückrunde E5-Teams",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Jugend Play-off-Staffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jugend Play-off-Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jugend Play-off-Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jugend Play-off-Staffel IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jugend Play-off-Staffel V",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse St. I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse St. II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse St. III",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein/Ahr",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 10",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E5-Junioren Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E5-Junioren Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E5-Junioren Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse 9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E5-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E5-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E5-Junioren Kreisklasse 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein/Lahn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Qualifizierungsrunde Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Qualifizierungsrunde Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Qualifizierungsrunde Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterstaffel E-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsstaffel 1  E-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsstaffel 2  E-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Trier/Saarburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisstaffel C I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisstaffel C II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreiliga E-Jugend Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E-Jugend Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E-Jugend Staffel IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E-Jugend Staffel IX",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E-Jugend Staffel V",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E-Jugend Staffel VI",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E-Jugend Staffel VII",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E-Jugend Staffel VIII",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E-Jugend Staffel X",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E-Jugend Staffel XI",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E-jugend  Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisligastaffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisligastaffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisligastaffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisligastaffel IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisligastaffel IX",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisligastaffel V",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisligastaffel VI",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisligastaffel VII",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisligastaffel VIII",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisligastaffel X",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisligastaffel XI",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisligastaffel XII",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreistaffel 5er",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren HR. 5er Staffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren HR. Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren HR. Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren HR. Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren HR. Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren HR. Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren RR 5er Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren RR 5er Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren RR Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren RR Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren RR Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren RR Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MR-E-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Wied",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Qualifizierungsstaffel  2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifizierungsstaffel  3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifizierungsstaffel  4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifizierungsstaffel  5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifizierungsstaffel  6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifizierungsstaffel  7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifizierungsstaffel  8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifizierungsstaffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel 1 (5er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel 2 (5er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel 3 (5er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde  Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde  Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde  Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Staffel 7 (5er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Staffel 8 (5er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde Staffel 9 (5er)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frauen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Rheinlandliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Rheinland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Rheinlandliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Rheinland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "BZL 1 Frauen",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "BZL 2 Frauen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eifel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Koblenz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Trier/Saarburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B Juniorinnen West 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen West 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Wied",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen 9/7er Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen 9/7er Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen 9/7er HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen 9/7er MR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eifel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Juniorinnen West 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Juniorinnen West 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Juniorinnen West Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Juniorinnen West Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Koblenz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C7 Juniorinnen Ost/Mitte",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C9er  Juniorinnen Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C9er Juniorinnen Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C9er Meisterstaffel WW-Sieg",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C9er Platzierungsrunde WW-Sieg",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Hunsrück/Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Juniorinnen Staffel 5 Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Mitte RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mosel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Juniorinnen Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Wied",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D Juniorinnen Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D Juniorinnen Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen 1 HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen 1 MR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Rhein/Lahn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E - Juniorinnen 7er Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E - Juniorinnen 7er Ost Rückrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Trier/Saarburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Juniorinnen 5er West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Juniorinnen 7er West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E - Juniorinnen 5er West Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Juniorinnen 7er West Rückrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westerwald/Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Juniorinnen Sieg Wied",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

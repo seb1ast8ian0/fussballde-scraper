@@ -1,0 +1,27 @@
+{
+  "label": "clients",
+  "options": [
+    "Deutschland",
+    "Baden",
+    "Bayern",
+    "Berlin",
+    "Brandenburg",
+    "Bremen",
+    "Hamburg",
+    "Hessen",
+    "Mecklenburg-Vorpommern",
+    "Mittelrhein",
+    "Niederrhein",
+    "Niedersachsen",
+    "Rheinland",
+    "Saarland",
+    "Sachsen",
+    "Sachsen-Anhalt",
+    "Schleswig-Holstein",
+    "Südbaden",
+    "Südwest",
+    "Thüringen",
+    "Westfalen",
+    "Württemberg"
+  ]
+}

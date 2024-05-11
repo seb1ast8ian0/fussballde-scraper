@@ -1,0 +1,2678 @@
+{
+  "name": "Thüringen",
+  "label": "teamTypes",
+  "options": [
+    {
+      "name": "Alte Herren Ü45",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Erfurt-Sömmerda",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "AH Ü45 KOL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alte Herren Ü35",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Erfurt-Sömmerda",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "AH Ü35 KOL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhön-Rennsteig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Alte Herren Ü35",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Westthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga AH Ü35 Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga AH Ü35 Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga AH Ü35 Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga AH Ü35 Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Nordthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Alte Herren Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Alte Herren Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Alte Herren Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Alte Herren Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Herren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Thüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Geomix Thüringenliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Thüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Jüttner Landesklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Jüttner Landesklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Jüttner Landesklasse Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eichsf.-Unstrut-Hainich",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Günther Automobile Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Erfurt-Sömmerda",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "BORN Senf Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Jena-Saale-Orla",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga Jena-Saale-Orla",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "coffeecom-Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "TeamsportNDH-Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga Ostthüringen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhön-Rennsteig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga Rhön-Rennsteig",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga Südthüringen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga Westthüringen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eichsf.-Unstrut-Hainich",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Erfurt-Sömmerda",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga St.I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga St.II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Jena-Saale-Orla",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga, Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga, Staffel B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhön-Rennsteig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Südthüringen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eichsf.-Unstrut-Hainich",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Erfurt-Sömmerda",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.KK St.I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.KK St.II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Jena-Saale-Orla",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.Kreisklasse Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Kreisklasse Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Kreisklasse Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Kreisklasse West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse Kleinfeld",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse, Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse, Staffel B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhön-Rennsteig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse - Südthüringen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Erfurt-Sömmerda",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.KK St.1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.Kreisklasse Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Kreisklasse Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Kreisklasse Staffel C",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2. KK Ost - Südthüringen",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. KK West - Südthüringen",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Kreisklasse Mitte - Südthüringen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Thüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga St. 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Verbandsliga St. 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eichsf.-Unstrut-Hainich",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Erfurt-Sömmerda",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Jun KOL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhön-Rennsteig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A - Junioren Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A Junioren KOL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Thüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga St. 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Verbandsliga St. 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eichsf.-Unstrut-Hainich",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Erfurt-Sömmerda",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Ju KOL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Jena-Saale-Orla",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga - Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisoberliga -Staffel B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren KOL Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren KOL Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "QR-Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "QR-Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga, Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisoberliga, Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ligarunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhön-Rennsteig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren KOL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eichsf.-Unstrut-Hainich",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Erfurt-Sömmerda",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Ju KL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Qualifikation",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B Junioren KL Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren KL Staffel 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Thüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga St. 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Verbandsliga St. 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eichsf.-Unstrut-Hainich",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Erfurt-Sömmerda",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Ju KOL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Jena-Saale-Orla",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren KOL",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren KOL Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren KOL Play Off",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga C-Junioren, Staffel A neu",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisoberliga C-Junioren, Staffel B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhön-Rennsteig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga C-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eichsf.-Unstrut-Hainich",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 9-9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Erfurt-Sömmerda",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Ju KL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Jena-Saale-Orla",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren KL Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren KL Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren KL Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga, vermind. Spielerzahl",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhön-Rennsteig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Qualifikation Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Qualifikation Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KL C-Junioren (Quali A)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL C-Junioren (Quali B)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren KL (Runde2)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C Junioren Kreisliga St. 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C Junioren Kreisliga St. 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C Junioren Kreisliga St. 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Thüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Talenteliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Verbandsliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Verbandsliga Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eichsf.-Unstrut-Hainich",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Erfurt-Sömmerda",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Ju KOL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Jena-Saale-Orla",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "QR-Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "QR-Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "QR-Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "QR-Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "QR-Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga, verk. Großfeld",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhön-Rennsteig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eichsf.-Unstrut-Hainich",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Kleinfeld 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Kleinfeld 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Kleinfeld A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Kleinfeld B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Erfurt-Sömmerda",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Ju KL St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Ju KL St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Ju KL St.3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Jena-Saale-Orla",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel C",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren KL Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren KL Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren KL Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren KL Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren KL Staffel 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga, Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga, Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga, Staffel C",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhön-Rennsteig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Qualifikation Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Qualifikation Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Qualifikation Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Qualifikation D-Junioren A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifikation D-Junioren B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifikation D-Junioren C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifikation D-Junioren D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifikation D-Junioren E",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifikation D-Junioren F",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren  Kreisklasse B (Runde 2)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga  (Runde 2)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren.Kreisklasse A  (Runde 2)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse /7er",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D Junioren Kreisliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D Junioren Kreisliga St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D Junioren Kreisliga St.3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D Junioren Kreisliga St.4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eichsf.-Unstrut-Hainich",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Erfurt-Sömmerda",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Ju KOL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Jena-Saale-Orla",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga E-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga, Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisoberliga, Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisoberliga, Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisoberliga, Staffel D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisoberliga, Staffel E",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhön-Rennsteig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eichsf.-Unstrut-Hainich",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga D",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Erfurt-Sömmerda",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Ju KL St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Ju KL St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Ju KL St.3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Ju KL St.4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Jena-Saale-Orla",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel D",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren KL Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren KL Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren KL Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren KL Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren KL Staffel 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhön-Rennsteig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Qualifikation Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Qualifikation Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Qualifikation Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Qualifikation Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Qualifikation E-Junioren A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifikation E-Junioren B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifikation E-Junioren C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifikation E-Junioren D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga Südthüringen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E Junioren Kreisliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E Junioren Kreisliga St.10",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E Junioren Kreisliga St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E Junioren Kreisliga St.3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E Junioren Kreisliga St.4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E Junioren Kreisliga St.5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E Junioren Kreisliga St.6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E Junioren Kreisliga St.7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E Junioren Kreisliga St.8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E Junioren Kreisliga St.9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Meisterstaffel 11",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Meisterstaffel 12",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Runde 2 - Staffel 21",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Runde 2 - Staffel 22",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Runde 2 - Staffel 23",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Runde 2 - Staffel 24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Runde 2 - Staffel 25",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Runde 2 - Staffel 26",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Runde 2 - Staffel 27",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Runde 2 - Staffel 28",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eichsf.-Unstrut-Hainich",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. KK --- 1 zu 5 Liga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. KK --- 1 zu 5 Frühjahr",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "F-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Fair-Play-Liga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Eichsf.-Unstrut-Hainich",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Fair Play 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play E",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Erfurt-Sömmerda",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Ju St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Ju St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Ju St.3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Jena-Saale-Orla",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Fair-Play-Liga Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair-Play-Liga Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair-Play-Liga Staffel C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair-Play-Liga Staffel D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair-Play-Liga Staffel E",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Fair Play Liga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play Liga Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play Liga Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play Liga Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play Liga Staffel 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "QR-Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "QR-Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "QR-Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "QR-Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "QR-Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "QR-Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel Regional 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel Regional 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel Regional 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel Überregional",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren (Quali) - Gruppe A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren (Quali) - Gruppe B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren (Quali) - Gruppe C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren (Quali) - Gruppe D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga F-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisoberliga F-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frauen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Thüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Thüringenliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Erfurt-Sömmerda",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen KOL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mittelthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga Frauen MTH",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kleinfeld / KOL",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Teamsport NDH Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhön-Rennsteig",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Kreisoberliga (Quali)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westthüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KREISOBERLIGA FRAUEN",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Thüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Thüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga Staffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Verbandsliga Staffel West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Thüringen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga Staffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Verbandsliga Staffel West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

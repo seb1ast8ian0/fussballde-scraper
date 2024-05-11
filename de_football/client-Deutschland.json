@@ -1,0 +1,545 @@
+{
+  "name": "Deutschland",
+  "label": "teamTypes",
+  "options": [
+    {
+      "name": "Herren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Bundesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Deutschland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bundesliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Bundesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Deutschland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.Bundesliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3.Liga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Deutschland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "3.Liga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Regionalliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Deutschland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Regionalliga Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Regionalliga Nordost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Regionalliga Südwest",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Regionalliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Oberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Deutschland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren Oberliga Rheinland-Pfalz/Saar",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "NOFV-Oberliga Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "NOFV-Oberliga Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Bundesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Deutschland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren-Bundesliga Nord/Nordost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren-Bundesliga Süd/Südwest",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren-Bundesliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Regionalliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Deutschland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Regionalliga Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren-Regionalliga Nordost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren-Regionalliga Südwest",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Oberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Deutschland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "EnBW-Oberliga A-Junioren BaWü",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Bundesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Deutschland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren-Bundesliga Nord/Nordost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren-Bundesliga Süd/Südwest",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren-Bundesliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Regionalliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Deutschland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Regionalliga Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Regionalliga Südwest",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren-Regionalliga Nordost",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Oberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Deutschland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "EnBW-Oberliga B-Junioren BaWü",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Regionalliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Deutschland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Regionalliga Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Regionalliga Südwest",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren-Regionalliga Bayern",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren-Regionalliga Nordost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren-Regionalliga West, Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren-Regionalliga West, Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren-Regionallliga Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-Junioren-Nachwuchs-Cup West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Oberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Deutschland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "EnBW-Oberliga C-Junioren BaWü",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Regionalliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Deutschland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U12-Junioren-Nachwuchs-Cup",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-Junioren-Nachwuchs-Cup",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frauen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Bundesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Deutschland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Google Pixel Frauen-Bundesliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Bundesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Deutschland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2. Frauen-Bundesliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Regionalliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Deutschland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen-Regionalliga Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Frauen-Regionalliga Nordost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Frauen-Regionalliga Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Frauen-Regionalliga Südwest",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Frauen-Regionalliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Oberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Deutschland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Oberliga Baden-Württemberg",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Bundesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Deutschland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen Bundesliga Nord/Nordost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen-Bundesliga Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen-Bundesliga West/Südwest",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Regionalliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Deutschland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen-Regionalliga West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "BMRL Südwest",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Oberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Deutschland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "EnBW-Oberliga B-Juniorinnen BaWü",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

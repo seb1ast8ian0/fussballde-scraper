@@ -1,0 +1,2652 @@
+{
+  "name": "Berlin",
+  "label": "teamTypes",
+  "options": [
+    {
+      "name": "Altliga Ü 60",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Altliga Ü60 Berlin-Liga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Altliga Ü60 Landesliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Altliga Ü60 Landesliga St.2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Altliga Ü60 Bezirksliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Altliga Ü60 Bezirksliga St.2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Altliga Ü 50",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Altliga Ü50 Berlin-Liga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Altliga Ü50 Landesliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Altliga Ü50 Landesliga St.2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Altliga Ü50 Bezirksliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Altliga Ü50 Bezirksliga St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Altliga Ü50 Bezirksliga St.3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Altliga Ü50 Kreisliga A St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Altliga Ü50 Kreisliga A St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Altliga Ü50 Kreisliga A St.3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Altliga Ü 40",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "11er Altliga Ü40 Berlin-Liga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "7er Altliga Ü40 Berlin-Liga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "11er Altliga Ü40 Landesliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "11er Altliga Ü40 Landesliga St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "7er Altliga Ü40 Landesliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "7er Altliga Ü40 Landesliga St.2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "7er Altliga Ü40 Bezirksliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "7er Altliga Ü40 Bezirksliga St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "7er Altliga Ü40 Bezirksliga St.3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "7er Altliga Ü40 Kreisliga A St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "7er Altliga Ü40 Kreisliga A St.2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Senioren Ü 32",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "7er Senioren Ü32 Berlin-Liga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Senioren Ü32 Berlin-Liga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "7er Senioren Ü32 Landesliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Senioren Ü32 Landesliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Senioren Ü32 Landesliga St.2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "7er Senioren Ü32 Bezirksliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "7er Senioren Ü32 Bezirksliga St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Senioren Ü32 Bezirksliga St.1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "7er Senioren Ü32 Kreisliga A St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "7er Senioren Ü32 Kreisliga A St.2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Herren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "7er Herren Berlin-Liga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Berlin-Liga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "7er Herren Landesliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Landesliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Landesliga St.2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "7er Herren Bezirksliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "7er Herren Bezirksliga St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Bezirksliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Bezirksliga St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Bezirksliga St.3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren Kreisliga A St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Kreisliga A St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Kreisliga A St.3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Kreisliga A St.4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga B",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren Kreisliga B St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Kreisliga B St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Kreisliga B St.3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Kreisliga B St.4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Kreisliga B St.5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga C",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren Kreisliga C St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Kreisliga C St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Kreisliga C St.3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Kreisliga C St.4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Kreisliga C St.5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Kreisliga C St.6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Kreisliga C St.7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Kreisliga C St.8",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Altliga Ü 60-Freizeit/Betrieb",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga Freizeit/Betrieb",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Altliga Ü60 Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Altliga Ü 50-Freizeit/Betrieb",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga Freizeit/Betrieb",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Altliga Ü50 Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga Freizeit/Betrieb",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Altliga Ü50 Landesliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Altliga Ü 40-Freizeit/Betrieb",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga Freizeit/Betrieb",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü38-Verbandsliga KF",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga Freizeit/Betrieb",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü38-Landesliga KF",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Senioren Ü 32-Freizeit/Betrieb",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga Freizeit/Betrieb",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Senioren Ü30 Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga Freizeit/Betrieb",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Senioren Ü30 Landesliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Senioren Ü30 Landesliga St.2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Herren - Freizeit/Betrieb",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga Freizeit/Betrieb",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga FZ",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Verbandsliga KF FZ",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga Freizeit/Betrieb",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga St.1 FZ",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga St.1 KF FZ",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga St.2 FZ",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga St.2 KF FZ",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga Freizeit/Betrieb",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bezirksliga FZ",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Bezirksliga St.1 KF FZ",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Bezirksliga St.2 KF FZ",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga A Freizeit/Betrieb",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A St.1 KF FZ",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A St.2 KF FZ",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Berlin-Liga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Landesliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Landesliga St.2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Bezirksliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Bezirksliga St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Bezirksliga St.3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Bezirksliga St.4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Bezirksliga St.5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Bezirksliga St.6",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Berlin-Liga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Landesliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Landesliga St.2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Bezirksliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Bezirksliga St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Bezirksliga St.3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Bezirksliga St.4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisliga St.1 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisliga St.2 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisliga St.3 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisliga St.4 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisliga St.5 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisliga St.6 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisliga St.7 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisliga St.1 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisliga St.2 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisliga St.3 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisliga St.4 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisliga St.5 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisliga St.6 Rück",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "8er B-Junioren Kreisklasse A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.C-Junioren Berlin-Liga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.C-Junioren Landesliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.C-Junioren Landesliga St.2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.C-Junioren Landesklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.C-Junioren Bezirksliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.C-Junioren Bezirksliga St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.C-Junioren Bezirksliga St.3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.C-Junioren Bezirksliga St.4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.C-Junioren Bezirksklasse St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.C-Junioren Bezirksklasse St.2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.C-Junioren Kreisliga A St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.C-Junioren Kreisliga A St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.C-Junioren Kreisliga A St.3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.C-Junioren Kreisklasse A St.1 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.C-Junioren Kreisklasse A St.2 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.C-Junioren Kreisklasse A St.3 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.C-Junioren Kreisklasse A St.4 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.C-Junioren Kreisklasse A St.1 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.C-Junioren Kreisklasse A St.2 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.C-Junioren Kreisklasse A St.3 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.C-Junioren Kreisklasse A St.4 Rück",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse B",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "3.C-Junioren Kreisklasse B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse C",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "3.C-Junioren Kreisklasse C St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.C-Junioren Kreisklasse C St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.C-Junioren Kreisklasse C St.3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse D",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "8er C-Junioren Kreisklasse D St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "8er C-Junioren Kreisklasse D St.2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.D-Junioren Berlin-Liga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.D-Junioren Berlin-Liga St.2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.D-Junioren Landesliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.D-Junioren Landesliga St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.D-Junioren Landesliga St.3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.D-Junioren Landesliga St.4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.D-Junioren Landesklasse St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.D-Junioren Landesklasse St.2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.D-Junioren Bezirksliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.D-Junioren Bezirksliga St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.D-Junioren Bezirksliga St.3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.D-Junioren Bezirksliga St.4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.D-Junioren Bezirksliga St.5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.D-Junioren Bezirksliga St.6",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.D-Junioren Bezirksklasse St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.D-Junioren Bezirksklasse St.2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.D-Junioren Kreisklasse A St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.D-Junioren Kreisklasse A St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.D-Junioren Kreisklasse A St.3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.D-Junioren Kreisklasse A St.4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.D-Junioren Kreisklasse A St.5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.D-Junioren Kreisklasse A St.6",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse B",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "3.D-Junioren Kreisklasse B St.1 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.D-Junioren Kreisklasse B St.2 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.D-Junioren Kreisklasse B St.3 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.D-Junioren Kreisklasse B St.4 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.D-Junioren Kreisklasse B St.5 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.D-Junioren Kreisklasse B St.6 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.D-Junioren Kreisklasse B St.7 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.D-Junioren Kreisklasse B St.1 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.D-Junioren Kreisklasse B St.2 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.D-Junioren Kreisklasse B St.3 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.D-Junioren Kreisklasse B St.4 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.D-Junioren Kreisklasse B St.5 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.D-Junioren Kreisklasse B St.6 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.D-Junioren Kreisklasse B St.7 Rück",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse C",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "unt. D-Junioren Kreisklasse C St.1 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. D-Junioren Kreisklasse C St.2 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. D-Junioren Kreisklasse C St.3 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. D-Junioren Kreisklasse C St.4 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. D-Junioren Kreisklasse C St.5 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. D-Junioren Kreisklasse C St.6 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. D-Junioren Kreisklasse C St.7 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. D-Junioren Kreisklasse C St.8 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. D-Junioren Kreisklasse C St.1 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. D-Junioren Kreisklasse C St.2 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. D-Junioren Kreisklasse C St.3 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. D-Junioren Kreisklasse C St.4 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. D-Junioren Kreisklasse C St.5 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. D-Junioren Kreisklasse C St.6 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. D-Junioren Kreisklasse C St.7 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. D-Junioren Kreisklasse C St.8 Rück",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse D",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisklasse D St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse D St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse D St.3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.E-Junioren Landesklasse St.1 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.10 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.11 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.12 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.13 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.14 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.2 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.3 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.4 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.5 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.6 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.7 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.8 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.9 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.1 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.10 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.11 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.12 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.13 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.14 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.2 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.3 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.4 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.5 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.6 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.7 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.8 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.E-Junioren Landesklasse St.9 Rück",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.1 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.10 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.11 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.2 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.3 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.4 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.5 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.6 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.7 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.8 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.9 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.1 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.10 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.11 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.2 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.3 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.4 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.5 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.6 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.7 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.8 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.E-Junioren Bezirksklasse St.9 Rück",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisliga A St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga A St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga A St.3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse B",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "3.E-Junioren Kreisklasse B St.1 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.E-Junioren Kreisklasse B St.2 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.E-Junioren Kreisklasse B St.3 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.E-Junioren Kreisklasse B St.4 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.E-Junioren Kreisklasse B St.5 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.E-Junioren Kreisklasse B St.6 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.E-Junioren Kreisklasse B St.7 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.E-Junioren Kreisklasse B St.8 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.E-Junioren Kreisklasse B St.1 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.E-Junioren Kreisklasse B St.2 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.E-Junioren Kreisklasse B St.3 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.E-Junioren Kreisklasse B St.4 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.E-Junioren Kreisklasse B St.5 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.E-Junioren Kreisklasse B St.6 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.E-Junioren Kreisklasse B St.7 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "3.E-Junioren Kreisklasse B St.8 Rück",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse C",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "unt. E-Junioren Kreisklasse C St.1 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. E-Junioren Kreisklasse C St.2 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. E-Junioren Kreisklasse C St.3 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. E-Junioren Kreisklasse C St.4 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. E-Junioren Kreisklasse C St.5 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. E-Junioren Kreisklasse C St.6 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. E-Junioren Kreisklasse C St.7 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. E-Junioren Kreisklasse C St.8 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. E-Junioren Kreisklasse C St.9 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. E-Junioren Kreisklasse C St.1 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. E-Junioren Kreisklasse C St.2 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. E-Junioren Kreisklasse C St.3 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. E-Junioren Kreisklasse C St.4 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. E-Junioren Kreisklasse C St.5 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. E-Junioren Kreisklasse C St.6 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. E-Junioren Kreisklasse C St.7 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. E-Junioren Kreisklasse C St.8 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "unt. E-Junioren Kreisklasse C St.9 Rück",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frauen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1./2. Frauen Berlin-Liga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "7er Frauen Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1./2. Frauen Landesliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "7er Frauen Landesliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1./2. Frauen Bezirksliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1./2. Frauen Bezirksliga St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "7er Frauen Bezirksliga St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "7er Frauen Bezirksliga St.2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "11er B-Juniorinnen Berlin-Liga Rück",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "11er B-Juniorinnen Landesliga St.1 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "11er B-Juniorinnen Landesliga St.2 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "11er B-Juniorinnen Landesliga Rück",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "8er B-Juniorinnen Bezirksklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "11er C-Juniorinnen Berlin-Liga Rück",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "11er C-Juniorinnen Landesliga St.1 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "11er C-Juniorinnen Landesliga St.2 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "11er C-Juniorinnen Landesliga St.1 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "11er C-Juniorinnen Landesliga St.2 Rück",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "11er C-Juniorinnen Landesklasse Hin",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "8er C-Juniorinnen Bezirksklasse St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "8er C-Juniorinnen Bezirksklasse St.2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Juniorinnen Berlin-Liga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Juniorinnen Landesliga St.1 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Landesliga St.2 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Landesliga St.1 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Landesliga St.2 Rück",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Juniorinnen Bezirksliga St.1 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Bezirksliga St.2 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Bezirksliga St.3 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Bezirksliga St.1 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Bezirksliga St.2 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Bezirksliga St.3 Rück",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Berlin",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Juniorinnen Landesklasse St.1 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Juniorinnen Landesklasse St.2 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Juniorinnen Landesklasse St.3 Hin",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Juniorinnen Landesklasse St.1 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Juniorinnen Landesklasse St.2 Rück",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Juniorinnen Landesklasse St.3 Rück",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

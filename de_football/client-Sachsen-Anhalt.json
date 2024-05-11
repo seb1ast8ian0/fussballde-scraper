@@ -1,0 +1,2726 @@
+{
+  "name": "Sachsen-Anhalt",
+  "label": "teamTypes",
+  "options": [
+    {
+      "name": "Altherren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Altmark West",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Ü 32",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis SFV Magdeburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga Alte Herren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis SFV Magdeburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtklasse Alte Herren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Herren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen-Anhalt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen-Anhalt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen-Anhalt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "LK - 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "LK - 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "LK - 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "LK - 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "LK - 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "LK - 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "LK - 7",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisoberliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Altmark Ost",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Altmark West",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Altmark West Liga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Anhalt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga Anhalt",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Anhalt-Bitterfeld",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga ABI",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Burgenland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga Burgenland",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Börde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bördeoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Harz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Harzoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Jerichower Land",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga Herren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mansfeld-Südharz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Die-Werbefabrik.de-Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis SFV Halle",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis SFV Magdeburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtoberliga Herren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Saalekreis",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Salzland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Salzlandliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Wittenberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Altmark Ost",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Altmark West",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2. Altmark West Liga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Anhalt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Anhalt",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Anhalt-Bitterfeld",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga ABI",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Burgenland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Börde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bördeliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Harz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Harzliga  1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Harzliga  2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Jerichower Land",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mansfeld-Südharz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis SFV Halle",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis SFV Magdeburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga Herren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Saalekreis",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Salzland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Wittenberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Altmark Ost",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Anhalt-Bitterfeld",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse ABI Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse ABI West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Burgenland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Staffel II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Börde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.Bördekreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Bördekreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Harz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Harzklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mansfeld-Südharz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis SFV Halle",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Saalekreis",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Kreisklasse Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Salzland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Börde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.Bördekreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Bördekreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Salzland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2.Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Salzland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "3.KK Kleinfeld",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen-Anhalt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga A-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen-Anhalt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Landesliga Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Landesliga Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Landesliga Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Landesliga Staffel IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Landesliga Staffel V",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Landesliga Staffel VI",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen-Anhalt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga B-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen-Anhalt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Landesliga Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Landesliga Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Landesliga Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Landesliga Staffel IV",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Altmark Ost",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Anhalt-Bitterfeld",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisunionsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Burgenland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Burgenlandliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Börde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Jugend",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Harz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Harzliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mansfeld-Südharz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis SFV Halle",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga B-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Mansfeld-Südharz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Vorrunde Kreispokal",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Saalekreis",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Salzland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga B-Junioren SLK",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen-Anhalt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga C-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen-Anhalt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Landesliga StaffeL III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Landesliga Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Landesliga Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Landesliga Staffel IV",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Altmark Ost",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Altmark West",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Anhalt-Bitterfeld",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisunionsliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisunionsliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Burgenland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Burgenlandliga Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Burgenlandliga Staffel II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Börde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Jugend Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Harz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Harzliga 9er Staffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Harzliga Großfeld",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mansfeld-Südharz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis SFV Halle",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga C-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis SFV Magdeburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Spielunion Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Spielunion Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterschaftsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Börde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Jugend Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis SFV Halle",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtklasse C-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Saalekreis",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsstaffel A (Meisterrunde)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsstaffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsstaffel C",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Salzland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisoberliga C-Junioren SLK 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen-Anhalt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen-Anhalt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Landesliga Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Landesliga Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Landesliga Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Landesliga Staffel IV",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Altmark Ost",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga D-Junioren  Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga D-Junioren  Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga D-Junioren Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Altmark West",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Meisterrunde D-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Anhalt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Anhalt - D-Jugend",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Anhalt-Bitterfeld",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Burgenland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga Quali Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga Quali Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga Quali Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Aufstiegsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Platzierung Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Platzierung Staffel II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Börde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Jugend Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Harz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Jerichower Land",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga D (verkürztes Großfeld)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mansfeld-Südharz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga D-Jgd I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga D-Jgd II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis SFV Halle",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga D-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis SFV Magdeburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Stadtliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Wittenberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga D-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Altmark West",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse D-Junioren Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse D-Junioren Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Börde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Jugend Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Harz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Vorrunden Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunden Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunden Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunden Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis SFV Halle",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "SK D-Junioren Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "SK D-Junioren Staffel B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis SFV Magdeburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Stadtklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Saalekreis",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde E",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Salzland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.Kreisklasse D-Junioren St 1.",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Kreisklasse D-Junioren St 2.",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Wittenberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Harz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2. Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Altmark Ost",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2.Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Altmark West",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Meisterrunde E-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Anhalt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Anhalt - E Jugend Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Anhalt - E Jugend Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Anhalt - Kreisklasse",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Anhalt - Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Anhalt-Bitterfeld",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisliga Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Burgenland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Qualifikation Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Qualifikation Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Qualifikation Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Platzierung Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Platzierung Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Platzierung Staffel III",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Harz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Jerichower Land",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga E Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mansfeld-Südharz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga E- Jgd. Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E- Jgd. Staffel IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E-Jgd I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga E-Jgd II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis SFV Halle",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga E-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis SFV Magdeburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Wittenberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Süd-neu",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Altmark West",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse E Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse E Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde E-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Börde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Jugend Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jugend Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jugend Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jugend Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Harz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Vorrunden Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunden Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunden Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunden Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunden Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrunden Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis SFV Magdeburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.Stadtklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Saalekreis",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde E",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde F",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Salzland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.Kreisklasse E-Jugend St 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Kreisklasse E-Jugend St 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Kreisklasse E-Jugend St 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Wittenberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Platzierungsrunde 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsrunde 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Harz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2. Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Kreisklasse Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Kreisklasse Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Kreisklasse Staffel 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis SFV Halle",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Stadtklasse E-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis SFV Magdeburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2. Stadtklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "F-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Altmark Ost",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Fair-Play-Liga Staffel Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair-Play-Liga Staffel Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair-Play-Liga Staffel Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair-Play-Liga Meister",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair-Play-Liga Platz 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair-Play-Liga Platz 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Anhalt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Anhalt Fair-Play-Liga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Anhalt-Bitterfeld",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren Fair-Play-Liga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Fair-Play-Liga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Burgenland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren Fair-Play Pool I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Fair-Play Pool II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Fair-Play Pool III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Fair-Play Pool IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Fair-Play Pool I Runde II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Fair-Play Pool II Runde II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Fair-Play Pool III Runde II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Fair-Play Pool IV Runde II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Harz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mansfeld-Südharz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Fair-Play-Runde F- Junioren Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair-Play-Runde F- Junioren Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis SFV Halle",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "FairPlay Liga Gruppe A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "FairPlay Liga Gruppe B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "FairPlay Liga Gruppe A Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "FairPlay Liga Gruppe B Rückrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis SFV Magdeburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Staffel II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Wittenberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Süd - neu",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Börde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Fair-Play Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair-Play Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair-Play Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair-Play Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair-Play Staffel 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Harz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Vorrundenstaffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrundenstaffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrundenstaffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrundenstaffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrundenstaffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Vorrundenstaffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1. Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Saalekreis",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Fair Play Liga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play Liga Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play Liga Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Fair Play Liga Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Wittenberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Platzierungsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Harz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "2. Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Kreisklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Kreisklasse Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "2. Kreisklasse Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frauen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen-Anhalt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Humanas Frauen-Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen-Anhalt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Regionalklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen-Anhalt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Regionalklasse 1 (Kleinfeld)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Regionalklasse 2 (Kleinfeld)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Regionalklasse 3 (Kleinfeld)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Regionalklasse 4 (Kleinfeld)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Regionalklasse 5 (Kleinfeld)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Regionalklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen-Anhalt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga B-Juniorinnen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Regionalklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Sachsen-Anhalt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga C-Juniorinnen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Freizeit Herren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis SFV Magdeburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtliga Herren Kleinfeld",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis SFV Magdeburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Stadtklasse Herren Kleinfeld",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

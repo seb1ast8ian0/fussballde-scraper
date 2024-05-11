@@ -1,0 +1,2979 @@
+{
+  "name": "Südbaden",
+  "label": "teamTypes",
+  "options": [
+    {
+      "name": "Senioren Ü40",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südbaden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü40 Gruppe 1 Großfeld",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ü40 Gruppe 2 Großfeld",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü 40 Kf Staffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Senioren Ü35",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Senioren Ü35 - Staffel 1 - FR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Senioren Ü35 - Staffel 2 - FR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Senioren Ü35 - Staffel 3 - FR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü 35 Kf Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ü 35 Kf Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Herren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südbaden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga Südbaden",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südbaden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bezirksliga Baden-Baden",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Bodensee",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bezirksliga Bodensee",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bezirksliga Freiburg",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Inklusionsliga Freiburg",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Hochrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bezirksliga Hochrhein",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bezirksliga Herren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Schwarzwald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bezirksliga Schwarzwald",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisliga (A)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A  Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A  Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bodensee",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A - Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A - Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Hochrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A   - Ost -",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A  - West -",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Schwarzwald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisliga (B)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B  Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Staffel 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bodensee",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B - Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B - Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B - Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B - Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B - Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B - Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B - Staffel 7",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Hochrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B / Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B / Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B / Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B / Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Staffel IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Staffel VI",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Staffel VII",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Staffel VIII",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Schwarzwald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Staffel 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3.Kreisliga (C)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bodensee",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C - Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C - Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C - Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C - Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Hochrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga  C / Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C / Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C / Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C / Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C / Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C / Staffel 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C Staffel I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel IV",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Schwarzwald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel 3 Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel 3 Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südbaden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südbaden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Landesliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Landesliga 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Bodensee",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Hochrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Schwarzwald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisliga (A)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisliga_",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bodensee",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Kreisliga 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A- Junioren Abstiegsrunde Kreisklasse",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A- Junioren Aufstiegsrunde Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Hochrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisliga 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Kreisliga 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Schwarzwald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B/A2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisklasse 1 Quali",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Kreisklasse 2 Quali",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Kreisklasse 3 Quali",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südbaden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südbaden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Landesliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Landesliga 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Bodensee",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Hochrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Schwarzwald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisliga (A)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bodensee",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisliga 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisliga 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Hochrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisliga 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisliga 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisliga 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Schwarzwald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisliga 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisklasse 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südbaden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südbaden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Landesliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Landesliga 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Bodensee",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Hochrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Schwarzwald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisliga (A)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisliga 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bodensee",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisliga 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisliga 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Hochrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisliga 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisliga 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Schwarzwald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisliga 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bodensee",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisklasse 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisklasse 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisklasse 5 ",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C- Junioren Kreisklasse Frühjahr 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Hochrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Schwarzwald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisklasse Staffel 2 9er",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kleinfeldklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kleinfeld Herbst 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kleinfeld Herbst 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C Junioren Kleinfeld Frühjahr 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C Junioren Kleinfeld Frühjahr 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Hochrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C Junioren Kleinfeld 1 9er",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C Junioren Kleinfeld 2 9er",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Bodensee",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Hochrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Schwarzwald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisliga (A)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bodensee",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Hochrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Schwarzwald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bodensee",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D- Junioren Kreisklasse Frühjahr 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D- Junioren Kreisklasse Frühjahr 8",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Hochrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 6",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Schwarzwald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisklasse  2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse  3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kleinfeldklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kleinfeld",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bodensee",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kleinfeld",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kleinfeld 1 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kleinfeld 2 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kleinfeld 3 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D- Junioren Kleinfeld Frühjahr 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D- Junioren Kleinfeld Frühjahr 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D- Junioren Kleinfeld Frühjahr 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Hochrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kleinfeld 1 (7er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kleinfeld 2 (7er)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kleinfeld 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Schwarzwald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kleinfeldstaffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kleinfeldstaffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kleinfeldklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kleinfeld Herbst Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Herbst Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Herbst Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Herbst Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Herbst Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Herbst Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Frühjahr 2024 Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Frühjahr 2024 Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Frühjahr 2024 Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Frühjahr 2024 Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Frühjahr 2024 Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Frühjahr 2024 Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Frühjahr 2024 Staffel 7",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kleinfeld Herbst 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Herbst 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Herbst 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Herbst 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Herbst 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Herbst 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Herbst 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Herbst 9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld  - Frühjahr 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld - Frühjahr 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld - Frühjahr 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld - Frühjahr 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld - Frühjahr 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld - Frühjahr 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld - Frühjahr 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld - Frühjahr 9",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kleinfeld 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Frühjahr 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Frühjahr 10",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Frühjahr 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Frühjahr 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Frühjahr 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Frühjahr 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Frühjahr 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Frühjahr 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Frühjahr 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld Frühjahr 9",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Schwarzwald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kleinfeld 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kleinfeld 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Frühjahr Kleinfeld 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Frühjahr Kleinfeld 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Frühjahr Kleinfeld 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Frühjahr Kleinfeld 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Frühjahr Kleinfeld 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frauen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südbaden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Verbandsliga Südbaden",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südbaden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga Frauen Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga Frauen Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bezirksliga Baden-Baden Frauen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Bodensee",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Bezirksliga Bodensee",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Hochrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Bezirksliga Hochrhein",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Schwarzwald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisliga (A)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bodensee",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Kreisliga A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Kreisliga A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Hochrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Kreisliga Hochrhein",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Schwarzwald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A1 Frauen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisliga (B)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Schwarzwald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B Frauen Staffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südbaden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen, Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen Bezirksliga 1 9er",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen Bezirksliga 2 9er",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Hochrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen Bezirksliga (9er/7er)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisliga (A)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bodensee",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen Kreisliga 9er",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Schwarzwald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen Kreisliga 9er",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kleinfeldklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C Juniorinnen Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bezirk Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Juniorinnen Bezirksliga 9er",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisliga (A)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bodensee",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Juniorinnen Kreisliga 9er",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Juniorinnen Kreisliga 1 9er",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Juniorinnen Kreisliga 2 9er",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Schwarzwald",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Juniorinnen Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kleinfeldklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Hochrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-/D-Juniorinnen, Herbstrunde (7er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-/D-Juniorinnen, Frühjahrsrunde (7er)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Offenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Juniorinnen Bezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D- Juniorinnen Bezirksliga 9er",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisliga (A)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D- Juniorinnen Kreisliga 9er",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D- Juniorinnen Kreisklasse 7er",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kleinfeldklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden-Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D Juniorinnen Kleinfeld",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Bodensee",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Juniorinnen Kleinfeld",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kleinfeldklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Freiburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Juniorinnen Kleinfeld 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Juniorinnen Kleinfeld Frühjahr 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

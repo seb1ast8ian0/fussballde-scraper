@@ -1,0 +1,5533 @@
+{
+  "name": "Mittelrhein",
+  "label": "teamTypes",
+  "options": [
+    {
+      "name": "Altherren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mittelrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü32-Mittelrheinliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Euskirchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü32 Kreisliga A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ü50 Kreisliga A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ü60 Kreisliga A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A Ü40",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga A Ü50",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü40 Gruppe A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ü40 Gruppe B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ü40 Bronzerunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ü40 Halbfinale 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ü40 Halbfinale 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ü40 Silberrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ü40 Endspiel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Herren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mittelrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Mittelrheinliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mittelrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga, Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga, Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Mittelrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bezirksliga, Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Bezirksliga, Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Bezirksliga, Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Bezirksliga, Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Aachen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bonn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Düren",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Euskirchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heinsberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A, Staffel 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Köln",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A Staffel 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A Staffel 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga B",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Aachen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bonn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B, Gruppe 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Düren",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Euskirchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heinsberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B, Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B, Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B, Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Köln",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga B Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga B Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga C",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Aachen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C 6",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bonn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C, Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C, Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C, Gruppe 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Düren",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Euskirchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heinsberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C,  Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C,  Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C,  Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Köln",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga C Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga C Staffel 7",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga D",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Aachen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga D Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga D Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga D Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga D Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga D 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga D 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga D 9",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bonn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga D, Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga D, Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga D, Gruppe 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heinsberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga D, Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga D, Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Köln",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga D Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga D Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga D Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga D Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga D Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga D Staffel 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga D Staffel 8",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mittelrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Mittelrheinliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Mittelrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Bezirksliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Bezirksliga 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreissonderliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Aachen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Sonderliga A-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U19 Sonderstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bonn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren-Sondergruppe, Frühjahr",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Düren",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Sonderliga Hauptrunde St. 100",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Euskirchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Sonderliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heinsberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Sonderliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Köln",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Sonderliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Sonderstaffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Sonderstaffel 1 Frühjahr 2024",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Sonderstaffel 2 Frühjahr 2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren, U19, KSL",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U19 kreisinterne BZL Quali Gr.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U19 kreisinterne BZL Quali Gr.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U19 kreisinterne BZL Quali Spiel um Platz 3 und 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisleistungsklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Aachen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Jun., Leistungsstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U19 Leistungsstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Düren",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Qualifikationsstaffel. 01",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Qualifikationsstaffel. 02",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Qualifikationsstaffel. 03",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Qualifikationsstaffel. 04",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Qualifikationsstaffel. 06",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A- Kreisleistungsklasse St. 101",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Euskirchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Leistungsklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heinsberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Leistungsklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Leistungsklasse 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Köln",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Leistungsklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A- Leistungsst. 3 Frühjahr 2022",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A- Leistungsst. 4 Frühjahr 2022",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A- Leistungsst. 5 Frühjahr 2022",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U19 Normalstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bonn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Staffel 1, Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Staffel 2, Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Staffel 1, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Staffel 2, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Staffel 3, Frühjahr",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Euskirchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heinsberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Jugend 2023/2024 Quali Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Jugend 2023/2024 Quali Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Jugend 2023/2024 Quali Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Köln",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Qualifikation St. 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Qualifikation St. 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Qualifikation St. 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren, U19, KK",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mittelrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Mittelrheinliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Mittelrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Bezirksliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Bezirksliga 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreissonderliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Aachen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Sonderliga B-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U17 Sonderstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bonn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Sonderstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Düren",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B- Sonderliga St.110",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Euskirchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Sonderliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heinsberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren  Sonderstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Köln",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Sonderliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Sonderstaffel 10",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Sonderst.1 Frühjahr 2024",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Sonderst.2 Frühjahr 2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren, U17, KSL",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17 kreisinterne BZL Quali",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisleistungsklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Aachen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Jun., Leistungsstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U17 Leistungsstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Düren",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Qualifikationsstaffel. 10",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Qualifikationsstaffel. 11",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Qualifikationsstaffel. 12",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Qualifikationsstaffel. 13",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Qualifikationsstaffel. 14",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Qualifikationsstaffel. 15",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Qualifikationsstaffel. 16",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL-Klasse Hauptrunde St. 111",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Euskirchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Leistungsklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heinsberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Leistungsklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Leistungsklasse 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Köln",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Leistungsklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Leistungsst. 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Leistungsst. 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren, U17, KLK",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Aachen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren, Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren, Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren, Staffel 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren, Staffel Q1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren, Staffel Q2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren, Staffel Q3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren, Staffel Q4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren, Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren, Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren, Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U17 Normalstaffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17 Normalstaffel West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bonn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren, Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren, Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren, Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Düren",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1.Kreisklasse Hauptrunde St. 112",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Euskirchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisklasse Frühjahr",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heinsberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Jugend 2023/2024 Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Jugend 2023/2024 Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Jugend 2023/2024 Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Jugend 2023/2024 Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Köln",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisklasse 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Qualifikation St. 12",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Qualifikation St. 13",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Qualifikation St. 14",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Qualifikation St. 15",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Qualifikation St. 16",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B- Normalst. 5 Frühjahr 2024",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B- Normalst. 6 Frühjahr 2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren, U17, KLK Quali Grp 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren, U17, KLK Quali Grp 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren, U17, KLK Quali Grp 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren, U17, KLK-Quali Grp 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren, U17, KK 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren, U17, KK 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mittelrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Mittelrheinliga U14",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Mittelrheinliga U15",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Mittelrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Bezirksliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Bezirksliga Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Bezirksliga Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-Junioren Bezirksliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-Junioren Bezirksliga Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-Junioren Bezirksliga Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Bezirksliga U14, Staffel 1 (Frühjahr)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Bezirksliga U14, Staffel 2 (Frühjahr)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Bezirksliga U15, Staffel 1 (Frühjahr)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Bezirksliga U15, Staffel 2 (Frühjahr)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreissonderliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Aachen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Sonderliga C-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U15 Sonderstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bonn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Sonderstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Düren",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Sonderliga Hauptrunde St. 120",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Euskirchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Sonderliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heinsberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Sonderliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Köln",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U14-Junioren Sonderliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-Junioren Sonderliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Sonderstaffel 20",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jun. Sonderst. C1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jun. Sonderst. C2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren, U15, KSL",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14 kreisinterne BZL Quali",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15 kreisinterne BZL Quali",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisleistungsklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Aachen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Jun. Leistungsstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U15 Leistungsstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Düren",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Qualifikationsstaffel 20",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Qualifikationsstaffel 21",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Qualifikationsstaffel 22",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Qualifikationsstaffel 23",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Qualifikationsstaffel 24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Qualifikationsstaffel 25",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL-Klasse Hauptrunde Staffel 121",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Euskirchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisleistungsklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heinsberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Leistungsklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Leistungsklasse 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Leistungsklasse 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Leistungsklasse 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Köln",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U14-Junioren Leistungsklasse",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-Junioren Leistungsklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Jun. Leistungsst. 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jun. Leistungsst. 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jun. Leistungsst. 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jun. Leistungsst. 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren, U15, KLK",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Aachen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren, Staffel 10 - Norweger Modell",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren, Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren, Staffel 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren, Staffel 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren, Staffel 9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren, Staffel Q1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren, Staffel Q2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren, Staffel Q3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren, Staffel Q4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren, Staffel Q5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Entscheidungsspiel Q1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jun. Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jun. Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jun. Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jun. Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jun. Staffel 5  Norweger Modell",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Normastaffel Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15 Normalstaffel (C9)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15 Normalstaffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15 Normalstaffel West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bonn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren, Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren, Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren, Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren, Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Düren",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Staffel 26 -C9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Kreisklasse Staffel 122",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Euskirchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Staffel 5 (9er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisklasse (9er) Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisliga A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heinsberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Jugend Quali 2023 2024 Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jugend Quali 2023 2024 Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jugend Quali 2023 2024 Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jugend Quali 2023 2024 Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jugend Quali 2023 2024 Staffel 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Köln",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U14-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-Junioren Kreisklasse 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Qualifikation St. 22",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Qualifikation St. 23",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Qualifikation St. 24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Qualifikation St. 25",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Qualifikation St. 26",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Qualifikation St. 27",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Qualifikation St. 28",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Qualifikation St. 29",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Qualifikation St. 30",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Qualifikation St. 31",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Qualifikation St. 32",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jun. Normalst. 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jun. Normalst. 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jun. Normalst. 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jun. Normalst. 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jun. Normalst. 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jun. Normalst. 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jun. Normalst. 7",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren, U14-Kreiscup",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren, U14-Nachwuchscup",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren, U15, 9er-Staffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren, U15, KLK-Quali Grp 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren, U15, KLK-Quali Grp 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren, U15, KLK-Quali Grp 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren, U15, KLK-Quali Grp 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren, U15, KLK-Quali Grp 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren, U15, KK 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren, U15, KK 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mittelrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Mittelrheinliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Mittelrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Bezirksliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Bezirksliga Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Bezirksliga Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Bezirksliga, Staffel 1 (Frühjahr)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Bezirksliga, Staffel 2 (Frühjahr)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreissonderliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Aachen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Sonderliga D-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U13 Sonderstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bonn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Sonderstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Düren",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Sonderliga Hauptrunde Staffel 130",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Euskirchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Sonderliga Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Sonderliga Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heinsberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Sonderliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Köln",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U13-Junioren Sonderliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Sonderstaffel 30",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Sonderstaffel D1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Sonderstaffel D2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren, U13, KSL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisleistungsklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Aachen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Jun., Leistungsst. 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jun., Leistungsst. 2 (Jg. 2012)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U13 Leistungsstaffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13 Leistungsstaffel West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Düren",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Qualifikationsstaffel 30",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Qualifikationsstaffel 31",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Qualifikationsstaffel 32",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Qualifikationsstaffel 33",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Qualifikationsstaffel 34",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Qualifikationsstaffel 35",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Qualifikationsstaffel 36",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Qualifikationsstaffel 37",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Qualifikationsstaffel 38",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Qualifikationsstaffel 39",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Qualifikationsstaffel 40",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Qualifikationsstaffel 41",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisleistung Hauptrunde Staffel 131",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisleistung Hauptrunde Staffel 132",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Euskirchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisleistungsklasse Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisleistungsklasse Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heinsberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren - Leistungsstaffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren - Leistungsstaffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren - Leistungsstaffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren - Leistungsstaffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren - Leistungsstaffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren - Leistungsstaffel 6",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Köln",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U13-Junioren Leistungsklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Leistungsstaffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Leistungsstaffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Leistungsstaffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Leistungsstaffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Leistungsstaffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Leistungsstaffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Leistungsstaffel 7",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren, U13, KLK",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Aachen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Staffel 10",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 11",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 12",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 13 (JG 2012)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 14 (JG 2012)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 15 (JG 2012)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel Q1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel Q2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel Q3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel Q4 (JG 2012)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel Q5 (JG 2012)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel Q6 (JG 2012)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel Q7 (JG 2012)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel Q8 (JG 2012)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D7-Junioren, Staffel 16",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren St. 4 (Jg. 2012)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren St. 5 (Jg. 2012)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren St. 6 (Jg. 2012)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U13 Normalstaffel (D7)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13 Normalstaffel Mitte 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13 Normalstaffel Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13 Normalstaffel Ost 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13 Normalstaffel West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13 Normalstaffel West 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bonn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D 7er-Junioren, Staffel 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D 9er-Junioren, Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D 9er-Junioren, Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D 9er-Junioren, Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D 9er-Junioren, Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D 9er-Junioren, Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D 9er-Junioren, Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D 9er-Junioren, Staffel 7",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Düren",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Staffel 42 - D 7 Herbstrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Kreisklasse Hauptrunde Staffel 133",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "1.Kreisklasse Hauptrunde Staffel 134",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D7 Staffel 140",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Euskirchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heinsberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Jugend 2023 2024 Quali Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Quali 2023 2024 Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Quali 2023 2024 Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Quali 2023 2024 Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Quali 2023 2024 Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Quali 2023 2024 Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Quali 2023 2024 Staffel 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Quali 2023 2024 Staffel 8",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Köln",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U12-Junioren D7er Kreisklasse",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-Junioren Kreisklasse 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-Junioren Kreisklasse 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-Junioren Kreisklasse 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-Junioren Kreisklasse 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-Junioren Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-Junioren Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-Junioren Kreisklasse 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-Junioren Kreisklasse 4 (n.A.)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-Junioren Kreisklasse 5 (n.A.)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-9er Qualifikation Staffel 32",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Qualifikation Staffel 33",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Qualifikation Staffel 34",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Qualifikation Staffel 35",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Qualifikation Staffel 36",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Qualifikation Staffel 37",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Qualifikation Staffel 38",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Qualifikation Staffel 39",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Qualifikation Staffel 40",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Qualifikation Staffel 41",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Qualifikation Staffel 42",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Qualifikation Staffel 43",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Qualifikation Staffel 44",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Qualifikation Staffel 45",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D7-er Staffel 46",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren D7-er Staffel 9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Normalstaffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Normalstaffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Normalstaffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Normalstaffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Normalstaffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Normalstaffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Normalstaffel 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Normalstaffel 8",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren, U12-Kreiscup",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren, U12-Nachwuchscup",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren, U13, KLK-Quali Grp 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren, U13, KLK-Quali Grp 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren, U13, KLK-Quali Grp 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren, U13, KLK-Quali Grp 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren, U13, KLK-Quali Grp 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren, U13, KLK-Quali Grp 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren, U13, KLK-Quali Grp 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren, U13, KLK-Quali Grp 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren, U13, KK 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren, U13, KK 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren, U13, KK 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Aachen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren, Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 10",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 11",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 12",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 13",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 14",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 1 (FJ)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 10 (FJ)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 11 (FJ)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 12 (FJ)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 13 (FJ)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 14 (FJ)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 2 (FJ)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 3 (FJ)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 4 (FJ)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 5 (FJ)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 6 (FJ)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 7 (FJ)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 8 (FJ)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 9 (FJ)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U11 Mitte 1 Herbstrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Mitte 2 Herbstrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Mitte 3 Herbstrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Ost 1 Herbstrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Ost 2 Herbstrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 West 1 Herbstrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 West 2 Herbstrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 West 3 Herbstrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Gr. 1 Frühjahrsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Gr. 2 Frühjahrsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Gr. 3 Frühjahrsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Gr. 4 Frühjahrsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Gr. 5 Frühjahrsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Gr. 6 Frühjahrsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Gr. 7 Frühjahrsrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Gr. 8 Frühjahrsrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bonn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren, Staffel 1, Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 10, Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 11, Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 2, Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 3, Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 4, Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 5, Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 6, Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 7, Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 8, Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 9, Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "jüngere E-Junioren Staffel 15, Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "jüngere E-Junioren Staffel 16, Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "jüngere E-Junioren Staffel 17, Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "jüngere E-Junioren, Staffel 12 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "jüngere E-Junioren, Staffel 13 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "jüngere E-Junioren, Staffel 14 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 1, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 10, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 11, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 12, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 2, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 3, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 4, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 5, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 6, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 7, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 8, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, Staffel 9, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "jüngere E-Junioren, Staffel 13, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "jüngere E-Junioren, Staffel 14, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "jüngere E-Junioren, Staffel 15, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "jüngere E-Junioren, Staffel 16, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "jüngere E-Junioren, Staffel 17, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "jüngere E-Junioren, Staffel 18, Frühjahr",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Düren",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Kreisklasse St. 50",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Kreisklasse St. 51",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Kreisklasse St. 52",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Kreisklasse St. 53",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Kreisklasse St. 54",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Kreisklasse St. 55",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Kreisklasse St. 56",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Kreisklasse St. 57",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Kreisklasse St. 58",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Kreisklasse St. 59",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Kreisklasse St.150 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Kreisklasse St.151 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Kreisklasse St.152 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Kreisklasse St.153 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Kreisklasse St.154 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Kreisklasse St.155 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Kreisklasse St.156 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Kreisklasse St.157 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Kreisklasse St.158 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Kreisklasse St.159 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Kreisklasse St.160 Frühjahr",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Euskirchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 1A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 2A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 3A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 4A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 5A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 6A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 7A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 8A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel 9A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Köln",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U11 Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Kreisklasse 10",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Kreisklasse 11",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Kreisklasse 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Kreisklasse 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Kreisklasse 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Kreisklasse 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Kreisklasse 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Kreisklasse 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U11 Kreisklasse 9",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Jun. St. 10 Erft Nord Jg. 2013",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St. 10 Erft Süd Jg. 2013",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St. 11 Erft Nord Jg. 2013",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St. 11 Erft Süd Jg. 2013",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St. 12 Erft Nord Jg. 2013",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St. 12 Erft Süd Jg. 2013",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St. 13 Erft Nord Jg. 2013",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St. 13 Erft Süd Jg. 2013",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St. 14 Erft Nord Jg. 2013",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St. 14 Erft Süd Jg. 2013",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St. 15 Erft Nord Jg. 2014",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St. 15 Erft Süd Jg. 2013",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St. 16 Erft Nord Jg. 2014",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St. 16 Erft Süd Jg. 2014",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St. 17 Erft Nord Jg. 2014",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St. 17 Erft Süd Jg. 2014",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St. 18 Erft Nord Jg. 2014",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St. 18 Erft Süd Jg. 2014",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St. 19 Erft Nord Jg. 2014",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St. 19 Erft Süd Jg. 2014",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St.10 JG 2013 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St.12 JG 2013 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St.13 JG 2013 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St.14 JG 2013 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St.15 JG 2013 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St.16 JG 2013 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St.17 JG 2013 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St.18 JG 2013 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St.19 JG 2013 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St.20 JG 2013 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St.21 JG 2014 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St.22 JG 2014 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St.23 JG 2014 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St.24 JG 2014 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St.25 JG 2014 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St.26 JG 2014 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St.27 JG 2014 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St.28 JG 2014 Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jun. St.29 JG 2014 Frühjahr",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren, U10 Orientierung Grp 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U10, Orientierung Grp 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U10, Orientierung Grp 10",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U10, Orientierung Grp 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U10, Orientierung Grp 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U10, Orientierung Grp 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U10, Orientierung Grp 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U10, Orientierung Grp 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U10, Orientierung Grp 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U10, Orientierung Grp 9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U11 Orientierung Grp 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U11 Orientierung Grp 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U11, Orientierung Grp 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U11, Orientierung Grp 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U11, Orientierung Grp 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U11, Orientierung Grp 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U11, Orientierung Grp 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U11, Orientierung Grp 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U11, Orientierung Grp 9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U10, KK 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U10, KK 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U10, KK 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U10, KK 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U10, KK 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U10, KK 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U11, KK 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U11, KK 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U11, KK 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U11, KK 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U11, KK 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren, U11, KK 6",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "F-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bonn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren, Staffel 1 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren, Staffel 2 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren, Staffel 3 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren, Staffel 4 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren, Staffel 5 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren, Staffel 6 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "jüngere F-Junioren, Staffel 11",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel 1, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel 2, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel 3, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel 4, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel 5, Frühjahr",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Euskirchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel 1A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel 2A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel 3A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel 4A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel 5A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel 6A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frauen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mittelrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen-Mittelrheinliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mittelrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen-Landesliga, Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Frauen-Landesliga, Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Mittelrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen-Bezirksliga, Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Frauen-Bezirksliga, Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Frauen-Bezirksliga, Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Aachen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Aachen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A Frauen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bonn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Kreisliga A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Düren",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A Frauen Düren/Heinsberg",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Euskirchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Kreisliga A Euskirchen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Köln",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A - Frauen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen-Kreisliga Rhein-Erft",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Kreisliga A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Frauen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Mittelrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Juniorinnen Bezirksliga Staffel1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Aachen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Juniorinnen AC / HS",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Juniorinnen AC/HS",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Normalstaffel Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Normalstaffel Frühjahr",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mittelrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B Juniorinnen Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Mittelrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen Bezirksliga Quali, Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen Bezirksliga Quali, Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen Bezirksliga Quali, Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen Bezirksliga Quali, Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen Bezirksliga Quali, Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen Bezirksliga Quali, Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen Bezirksliga Quali, Staffel 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen Bezirksliga Quali, Staffel 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen Bezirksliga, Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen Bezirksliga, Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen Bezirksliga, Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen Bezirksliga, Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen Bezirksliga, Staffel 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Aachen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen St. 1 AC/DN/HS",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen St. 2 AC/DN/HS",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen St. 1 AC/DN/HS (FJ)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen St. 2 AC/DN/HS (FJ)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U17-Juniorinnen Normalstaffel (7er)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bonn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen Kreisliga Rhein-Erft/Köln",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Mittelrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Juniorinnen Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirk Mittelrhein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Juniorinnen Bezirksliga, Qualifikation Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Juniorinnen Bezirksliga, Qualifikation Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Juniorinnen Bezirksliga, Qualifikation Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Juniorinnen Bezirksliga, Qualifikation Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Juniorinnen Bezirksliga, Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Juniorinnen Bezirksliga, Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U15-Juniorinnen Normalstaffel (7er)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bonn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Juniorinnen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Düren",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Juniorinnen Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Juniorinnen Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Juniorinnen Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Frühjahrsrunde Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Frühjahrsrunde Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Frühjahrsrunde Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Köln",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Juniorinnen Kreisliga Rhein-Erft/Köln Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Juniorinnen Kreisliga Rhein-Erft/Köln Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Juniorinnen, U15 KK",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Berg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U13-Juniorinnen Normalstafel (7er)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bonn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Juniorinnen Staffel 1 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Staffel 2 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen, Staffel 1, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen, Staffel 2, Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen, Staffel 3, Frühjahr",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Euskirchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Juniorinnen Staffel 1 EU/DN/AC",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Staffel 2 EU/DN/AC",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Staffel 3 EU/DN/AC",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Staffel 1A EU/DN/AC",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Staffel 2A EU/DN/AC",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Staffel 3A EU/DN/AC",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Köln",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Juniorinnen Kreisliga Rhein-Erft/Köln Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Kreisliga Rhein-Erft/Köln Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Juniorinnen Kreisliga Rhein-Erft/Köln Staffel 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sieg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Juniorinnen, U13, KK",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bonn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Juniorinnen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Köln",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Juniorinnen Kreisliga Rhein-Erft/Köln Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Erft",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Juniorinnen Kreisliga Rhein-Erft/Köln",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

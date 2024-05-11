@@ -1,0 +1,2634 @@
+{
+  "name": "Hamburg",
+  "label": "teamTypes",
+  "options": [
+    {
+      "name": "Super-Senioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Super-Senioren OL 01",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Super-Senioren LL 01",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirksebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Super-Senioren BZL 01",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreisebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Super-Senioren KK 01 (Ü55 7er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Super-Senioren KK 02 (Ü50 11er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Super-Senioren KK 03 (Ü60 7er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Super-Senioren KK 04 (Ü60 11er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Super-Senioren KK 05 (Ü60 7er)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Senioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Senioren OL 01",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Senioren OL 02",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Senioren LL 01",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Senioren LL 02",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Senioren LL 03",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Senioren LL 04",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirksebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Senioren BZL 01",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Senioren BZL 03",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alte Herren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Alte Herren OL 01",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Alte Herren OL 02",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Alte Herren LL 01",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Alte Herren LL 02",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Alte Herren LL 03",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Alte Herren LL 04",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirksebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Alte Herren BZL 01",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Alte Herren BZL 02",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Alte Herren BZL 03",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Alte Herren BZL 04",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Herren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Oberliga Hamburg",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Hammonia",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hansa",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirksebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Bezirksliga Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Bezirksliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Bezirksliga Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Bezirksliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreisebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga 8",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreisebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse 8",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse B",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreisebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse B 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U18-Oberliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U19-Oberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U18-Landesliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U19-Landesliga Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U19-Landesliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirksebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U18-BZL 03 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U18-BZL 04 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U18-BZL 05 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U18-BZL 06 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U19-BZL 01 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U19-BZL 02 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U18-BZL 02",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U19-BZL 01",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreisebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U18-KL 01",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U18-KL 02",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreisebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U18-KK 22 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U18-KK 23 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U19-KK 21 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U19-U17-KK 71 7er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U18-KK 02",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U18-KK 03",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U19-KK 01",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U16-Oberliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17-Oberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U16-Landesliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17-Landesliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirksebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U16-BZL 07 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U16-BZL 08 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U16-BZL 09 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U16-BZL 10 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U16-BZL 11 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U16-BZL 12 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17-BZL 01 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17-BZL 02 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17-BZL 03 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17-BZL 04 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17-BZL 05 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17-BZL 06 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U16-BZL 02",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17-BZL 01",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreisebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U16-KL 04",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U16-KL 05",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U16-KL 06",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17-KL 01",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17-KL 02",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17-KL 03",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreisebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U16-KK 25 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U16-KK 26 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U16-KK 27 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U16-KK 28 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U16-KK 29 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U16-KK 71 7er",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17-KK 21 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17-KK 22 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17-KK 23 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17-KK 24 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U16-KK 05",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U16-KK 06",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U16-KK 07",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U16-KK 08",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17-KK 01",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17-KK 02",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17-KK 03",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17-KK 04",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U17-U16-KK 72 / 7er",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U15-Oberliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-Oberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U14-Landesliga 01 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-Landesliga 02 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-Landesliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-LL 03",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-LL 04",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-LL 05",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirksebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U14-BZL 07 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-BZL 08 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-BZL 09 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-BZL 10 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-BZL 11 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-BZL 12 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-BZL 13 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-BZL 01 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-BZL 02 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-BZL 03 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-BZL 04 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-BZL 05 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-BZL 06 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-BZL 03",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-BZL 04",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-BZL 05",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-BZL 01",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-BZL 02",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreisebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U15-KL 01",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-KL 02",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreisebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U14-KK 31 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 32 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 33 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 34 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 35 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 36 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 37 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 38 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 39 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 72 7er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 73 7er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 74 7er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-KK 21 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-KK 22 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-KK 23 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-KK 24 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-KK 25 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-KK 26 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-KK 27 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-KK 71 7er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 09",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 10",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 11",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 12",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 13",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 14",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 15",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 16",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 17",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 18",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 76 / 7er",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U14-KK 77 / 7er",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-KK 01",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-KK 02",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-KK 03",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-KK 04",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-KK 05",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-KK 06",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-KK 07",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-KK 08",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U15-KK 75 / 7er",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U12-LL 03",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-LL 04",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-LL 01",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-LL 02",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirksebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U12-BZL 21 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-BZL 22 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-BZL 23 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-BZL 24 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-BZL 25 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-BZL 26 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-BZL 27 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-BZL 01 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-BZL 02 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-BZL 03 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-BZL 04 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-BZL 05 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-BZL 06 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-BZL 07 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-BZL 08 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-BZL 09 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-BZL 10 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-BZL 11 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-BZL-Winter 01 (U13)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-BZL-Winter 02 (U13)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-BZL-Winter 03 (U13)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-BZL-Winter 04 (U12)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-BZL-Winter 05 (U12)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-BZL-Winter 06 (U12)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-BZL-Winter 07 (U13)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-BZL 07",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-BZL 08",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-BZL 09",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-BZL 10",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-BZL 01",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-BZL 02",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-BZL 03",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-BZL 04",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-BZL 05",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-BZL 06",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreisebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "U12-KK 44 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 45 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 46 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 47 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 48 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 49 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 50 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 51 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 52 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 53 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 54 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 55 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 56 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 57 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 58 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 59 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 60 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 61 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 62 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 63 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 64 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 65 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 66 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 67 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 68 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 69 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 70 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 71 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 72 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 21 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 22 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 23 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 24 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 25 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 26 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 27 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 28 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 29 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 30 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 31 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 32 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 33 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 34 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 35 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 36 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 37 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 38 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 39 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 40 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 41 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 42 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 43 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-KK-Winter 21 (U13)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-KK-Winter 22 (U13)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-KK-Winter 23 (U13)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-KK-Winter 24 (U13)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-KK-Winter 25 (U13)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-KK-Winter 26 (U13)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-KK-Winter 27 (U13)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-KK-Winter 28 (U12)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-KK-Winter 29 (U12)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-KK-Winter 30 (U12)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-KK-Winter 31 (U12)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-KK-Winter 32 (U12)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-KK-Winter 33 (U12)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-KK-Winter 34 (U12)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-KK-Winter 35 (U13)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-KK-Winter 36 (U12)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-KK-Winter 37 (U12)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 43",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 44",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 45",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 46",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 47",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 48",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 49",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 50",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 51",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 52",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 53",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 54",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 55",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 56",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 57",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 58",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 59",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 60",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 61",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 62",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 63",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 64",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 65",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 66",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 67",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 68",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 69",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 70",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 71",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 72",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U12-KK 73",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 21",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 22",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 23",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 25",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 26",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 27",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 28",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 29",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 30",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 31",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 32",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 33",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 34",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 35",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 36",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 37",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 38",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 39",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 40",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 41",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U13-KK 42",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frauen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "FOL Frauen-Oberliga Hamburg",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "FLL Landesliga Frauen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Bezirksebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "FBZL Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "FBZL West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreisebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "FKL 01",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "FKL 02",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "U19-Frauen 11er/9er/7er",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sonderklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreisebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "FSK 01 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "FSK 02 Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "FSK 01 Frühjahr stark",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "FSK 02 Frühjahr",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Mädchen-Oberliga (MBOL)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreisebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "MB 02 11er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MB 03 11er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MB 04 11er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MB 05 7er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MB 06 7er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MB 07 7er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MB 11 11er Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MB 12 11er Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MB 13 7er Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MB 14 7er Frühjahr",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Mädchen-Oberliga (MCOL)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreisebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "MC 02 11er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MC 03 11er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MC 04 11er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MC 05 7er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MC 06 7er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MC 07 7er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MC 11 11er Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MC 12 11er Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MC 13 7er Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MC 14 7er Frühjahr",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreisebene Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "MD 01 8er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MD 02 8er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MD 03 8er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MD 04 8er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MD 05 8er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MD 06 8er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MD 07 8er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MD 08 7er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MD 09 7er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MD 10 7er Herbst",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MD 11 8er Frühjahr stark",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MD 12 8er Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MD 13 8er Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MD 14 8er Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MD 15 8er Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MD 16 8er Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MD 17 7er Frühjahr",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "MD 18 7er Frühjahr",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Freizeitsport",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsoberliga (Freizeit)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Hamburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "1. Division",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Freizeit Oberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

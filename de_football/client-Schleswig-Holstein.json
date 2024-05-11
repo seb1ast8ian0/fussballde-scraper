@@ -1,0 +1,4165 @@
+{
+  "name": "Schleswig-Holstein",
+  "label": "teamTypes",
+  "options": [
+    {
+      "name": "Ü50 Herren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Segeberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü50-Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Ü50",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ü40 Herren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Ü40",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Lübeck",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü40 Kreisklasse A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Altherren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Lübeck",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Altherren Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Alt-Herren Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Segeberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü32-Altherren Kreisliga SE/OD",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Lübeck",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Altherren Kreisklasse A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Alt-Herren Kreisklasse A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse B",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Herzogtum Lauenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "AH-KB",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Herren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Oberliga Schleswig-Holstein",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Schleswig-Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Flens-Oberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Schleswig-Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Senioren Landesliga Holstein",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Senioren Landesliga Schleswig",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Schleswig-Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Verbandsliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Verbandsliga Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Verbandsliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga - Mitte",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren Kreisliga - NO",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Lübeck",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga - SO",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordfriesland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga NW",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostholstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Herren - O",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Nord",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga S",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westküste",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Herzogtum Lauenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A- S",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A - Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A - Ost-2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren Kreisklasse A - Ost-1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Lübeck",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A - SO",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordfriesland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A - Nordwest",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostholstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren Kreisklasse A - Ost 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rendsburg-Eckernförde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A-MN",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A - Nord",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Segeberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A - SW",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westküste",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A - West 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A - West 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse B",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Herzogtum Lauenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse B-S1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse B - Ost-2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren Kreisklasse B - Ost-1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Lübeck",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse B - SO",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordfriesland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse B NW 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostholstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren Kreisklasse B - Ost-3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rendsburg-Eckernförde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B- Mitte - 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B-NO",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse B - Nord",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Segeberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse B - M2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse B SW",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westküste",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse B - West 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B - West 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse C",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse C - Mitte - 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren Kreisklasse C - Ost-1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Lübeck",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse C - SO 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse C - SO 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordfriesland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse C - Nordwest",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostholstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren Kreisklasse C - Ost 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Kreisklasse C - Ost 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rendsburg-Eckernförde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C - Kreisklasse Mitte - 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C - Kreisklasse Mitte - 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse C MN",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse C - Nord",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Segeberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse C - SW",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse C S",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westküste",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse C - West 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse C - West 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse C - West 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Oberliga Schleswig-Holstein",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Schleswig-Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Oberliga Schleswig-Holstein  A-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Schleswig-Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga Holstein A-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga Schleswig A-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Herzogtum Lauenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga LAU",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga HOL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Jugend Kreisliga KI",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Lübeck",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga 5 - HL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostholstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisliga OH 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rendsburg-Eckernförde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisliga 2 RD-ECK",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga A-Junioren SL-FL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westküste",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga 3 - Kreis Westküste",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Westküste",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A - Kreis Westküste",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Oberliga Schleswig-Holstein",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Schleswig-Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Oberliga Schleswig-Holstein  B-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Schleswig-Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga Holstein   B-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga Schleswig B-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Jugend Kreisliga KI",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Lübeck",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga 4 -HL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordfriesland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga 2 (NF)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rendsburg-Eckernförde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisliga 3 RD-ECK",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga STO",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westküste",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga 6 - Kreis Westküste",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A HOL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Jugend Kreisklasse A KI",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Lübeck",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A 8 - HL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordfriesland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A 1 (NF)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostholstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisklasse A OH 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren KKA-2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren KKA-3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Segeberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklass A SE 9",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A STO",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westküste",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A 7 - Kreis Westküste",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Oberliga Schleswig-Holstein",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Schleswig-Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Oberliga Schleswig-Holstein  C-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Schleswig-Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga Holstein   C-Junioren",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga Schleswig  C-Junioren",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga HOL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Jugend Kreisliga KI",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostholstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisliga OH 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga SL-FL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga STO",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westküste",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga 4 - Kreis Westküste",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Jugend Kreisklasse A KI",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Lübeck",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A 10 - HL",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A 8 - HL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordfriesland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A1 NF",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostholstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisklasse A OH 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Segeberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A SE 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A SE 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A STO",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westküste",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A 4 - Kreis Westküste",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A 6 - Kreis Westküste",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse B",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Herzogtum Lauenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse B LAU 11",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse B HOL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Jugend Kreisklasse B KI1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Jugend Kreisklasse B KI2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Lübeck",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse B 7 - HL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordfriesland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse B1 NF",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rendsburg-Eckernförde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisklasse B3 RD-ECK",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisklasse B6 RD-ECK",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C- Junioren Kreisklasse B-1 SL-FL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse B STO",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westküste",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse B 6 - Kreis Westküste",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Schleswig-Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Verbandsliga Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Verbandsliga Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Verbandsliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Verbandsliga Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Verbandsliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Quali Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Quali Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Quali Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Quali Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Quali Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D Jugend Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Jugend Kreisliga Kiel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordfriesland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga D-Junioren 2023/2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostholstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-JUNIOREN 9er KREISLIGA KFV OSTHOLSTEIN 23/24",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rendsburg-Eckernförde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga - Quali 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga - Quali 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga - Quali 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Stormarn",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westküste",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga Quali Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga Quali Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga Staffel B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Herzogtum Lauenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KKA",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Jugend Quali KK-A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Kreisklasse A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Lübeck",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Jugend Quali-Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Quali-Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Quali-Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Quali-Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Quali-Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisstaffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisstaffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisstaffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordfriesland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A   D-Junioren 2023/2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostholstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D -9er Qualifikationsrunde Gruppe B KFV Ostholstein  23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er QUALIFIKATIONSRUNDE Gruppe C KFV OSTHOLSTEIN 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er QUALIFIKATIONSRUNDE Gruppe D KFV OSTHOLSTEIN 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er QUALIFIKATIONSRUNDE Gruppe E KFV OSTHOLSTEIN 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-9er Qualifikationsrunde  Gruppe A KFV Ostholstein 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-JUNIOREN 9er KREISKLASSE  A Nord I KFV OSTHOLSTEIN 2023/2024",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-JUNIOREN 9er KREISKLASSE  A Süd I KFV OSTHOLSTEIN 2023/2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rendsburg-Eckernförde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisklasse A - Quali 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse A - Quali 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse A - Quali 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse A - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren KKA Quali Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren KKA Quali Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Segeberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D Jugend Quali B (KL)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D Jugend Quali C (7er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D Jugend Quali D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D Jugend Quali E",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D Jugend Quali F",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D Jugend Quali G",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Quali A (KL)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D Jugend KKA",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D Jugend KKB",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D Jugend KKC",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D Jugend KKD",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend KL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D - Junioren Qualifikation KKA / KKB",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D - Junioren Qualifikation KKB / KKC (1)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D - Junioren Qualifikation KKB / KKC (2)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D - Junioren Qualifikation KKC / KKD (1)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D - Junioren Qualifikation KKC / KKD (2)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D - Junioren Qualifikation KL / KKA (1)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D - Junioren Qualifikation KL / KKA (2)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westküste",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Staffel A Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel A Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel B Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel B Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse B",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Herzogtum Lauenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "KKB",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Jugend Quali KK-B1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Quali KK-B2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Kreisklasse B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordfriesland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Quali 1 Kreisklasse B   D-Junioren 2023/2024",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali 2 Kreisklasse B   D-Junioren 2023/2024",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Quali 3 Kreisklasse B   D-Junioren 2023/2024",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KKB D- Junioren Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KKB D- Junioren Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostholstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-JUNIOREN KREISKLASSE B KFV OSTHOLSTEIN 2023/2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rendsburg-Eckernförde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisklasse B1 - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse B2 - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren KKB Quali Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren KKB Quali Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse C",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Jugend Quali KK-C1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Quali KK-C2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Quali KK-C3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Quali KK-C4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Quali KK-C5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Kreisklasse C",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rendsburg-Eckernförde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisklasse C1 - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse C2 - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren KKC Quali Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren KKC Quali Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse C Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse C Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse C",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse D",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Jugend Kreisklasse D1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Jugend Kreisklasse D2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse D",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Herzogtum Lauenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Jun. Kreisliga  23/24",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga Endrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordfriesland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostholstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisliga Nord KFV Ostholstein 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga Süd KFV Ostholstein 23/24",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rendsburg-Eckernförde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisliga - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Stormarn",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westküste",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Quali Staffel A Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali Staffel A Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali Staffel B Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali Staffel B Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali Staffel C Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali Staffel C Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali Staffel D Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali Staffel D Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali Staffel E Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali Staffel E Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel A Nord (5er) Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel A Süd (5er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel A Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel A Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel B Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel B Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel C Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel C Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel D Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Staffel D Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Herzogtum Lauenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren KKL A Quali 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren KKL A Quali 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E- Jun. Kreisklasse A 23/24",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A (1) Vorrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A (2) Vorrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A (1)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A (2)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Jugend Quali KK A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Lübeck",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Jugend Quali Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jugend Quali Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jugend Quali Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jugend Quali-Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jugend Quali-Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jugend Quali-Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jugend Quali-Staffel 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A - Meisterstaffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A - Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A - Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A - Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A - Staffel 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordfriesland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Quali Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali Staffel 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali Staffel 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Quali Staffel 9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren KKA Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren KKA Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren KKA Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostholstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-JUNIOREN QUALISTAFFEL I KFV OH 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-JUNIOREN QUALISTAFFEL II KFV OH 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-JUNIOREN QUALISTAFFEL III KFV OH 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-JUNIOREN QUALISTAFFEL IV KFV OH 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-JUNIOREN QUALISTAFFEL V KFV OH 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-JUNIOREN QUALISTAFFEL VI KFV OH 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren KKA Nord KFV Ostholstein 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren KKA Süd KFV Ostholstein 23/24",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rendsburg-Eckernförde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisklasse A - Quali 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse A - Quali 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse A - Quali 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse A1 - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse A2 - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisklasse A Qualifikation Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse A Qualifikation Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse A Qualifikation Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Segeberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E Jugend Quali A 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E Jugend Quali B 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E Jugend Quali C 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E Jugend Quali D 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E Jugend Quali E 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jugend Quali F 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jugend Quali G 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jugend Quali H 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jug Hauptrunde KKA",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jug Hauptrunde KKB",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jug Hauptrunde KKC-1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jug Hauptrunde KKC-2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jug Hauptrunde KKC-3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jug Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Qualirunde 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Qualirunde 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Qualirunde 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Qualirunde 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Qualirunde 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Qualirunde 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Qualirunde 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse B",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Herzogtum Lauenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren KKL B Quali 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E- Jun. Kreisklasse B 23/24",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse B (1) Vorrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B (2) Vorrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B (3) Vorrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B (4) Vorrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B (5) Vorrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B (1) Endrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B (2) Endrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B (3) Endrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B (4) Endrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Jugend Quali KK B1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jugend Quali KK B2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordfriesland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren KKB Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren KKB Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren KKB Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostholstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren KKB KFV Ostholstein 23/24",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rendsburg-Eckernförde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisklasse B - Quali 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse B - Quali 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse B - Quali 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse B1 - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse B2 - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse B3 - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisklasse B Qualifikation Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse B Qualifikation Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse B Qualifikation Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse B Qualifikation Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B Staffel 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse C",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Herzogtum Lauenburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren KKL-C Quali 1 ",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E- Jun. Kreisklasse C 23/24",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Jugend Quali KK C1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jugend Quali KK C2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jugend Quali KK C3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Jugend Quali KK C4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse C",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rendsburg-Eckernförde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisklasse C - Quali 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse C - Quali 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse C - Quali 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse C1 - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse C2 - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse C3 - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisklasse C Qualifikation Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse C Qualifikation Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse C Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse C Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse C",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse D",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse D",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse D",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse E",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse E1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse E2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse E3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisklasse E",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse E",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "F-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Funino Holstein 1.Staffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Funino Holstein 2.Staffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Funino Holstein 3.Staffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Funino Holstein 4.Staffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Funino Holstein 5.Staffel",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Funino Holstein 6.Staffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rendsburg-Eckernförde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren Kreisliga - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westküste",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Jugend 5vs5 Nord Hinserie",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jugend 5vs5 Süd Hinserie",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jugend 5vs5 Nord Rückserie",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jugend 5vs5 Süd Rückserie",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Rendsburg-Eckernförde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren-Kreisklasse A - Quali 1 (5er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren-Kreisklasse A - Quali 2 (5er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren-Kreisklasse A - Quali 3 (5er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisklasse A1 - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisklasse A2 - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisklasse A3 - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Segeberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren Quali - Staffel A 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Quali - Staffel B 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Quali - Staffel C 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Quali - Staffel D 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Quali - Staffel E 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Quali - Staffel F 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Quali - Staffel G 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde  F-Junioren  Staffel D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde  F-Junioren  Staffel E",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde  F-Junioren  Staffel F",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde F-Junioren  Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde F-Junioren  Staffel B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Hauptrunde F-Junioren  Staffel C",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse B",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Rendsburg-Eckernförde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren Kreisklasse B - Quali 1 (5er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisklasse B - Quali 2 (5er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisklasse B - Quali 3 (5er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisklasse B Quali - 4 (5er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisklasse B1 - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisklasse B2 - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisklasse B3 Rückrunde 24",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frauen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Oberliga Schleswig-Holstein",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Schleswig-Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "wellyou-Frauen-Oberliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Schleswig-Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Landesliga Holstein",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Landesliga Schleswig",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Kreisliga Mitte Ost",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Kreisliga Nord",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Segeberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen KL Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westküste",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Kreisklasse-A Mitte Ost",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordfriesland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Kreisklasse A Nord",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Kreisklasse A  Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westküste",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse-A West (11er/9er)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse B",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Lübeck",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen KKLB Ost (HL)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordfriesland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen KreisklasseB Nord 23/24",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostholstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen KKL B Süd-Ost",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rendsburg-Eckernförde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Kreisklasse B Mitte",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen KKB N-O Herbstrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Schleswig-Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen LL Holstein 2023/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen LL Schleswig 2023/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen LL Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen LL Platzierung",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen Kreisliga Mitte-Ost",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordfriesland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Nord-West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostholstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen KL Süd-Ost 2023/24",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen KL Nord-Ost Qualirunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen KL Nord-Ost Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen KL Nord-Ost Normalstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen KL Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westküste",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Mitte-West (7er/9er)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Rendsburg-Eckernförde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Juniorinnen (Pilotspielrunde)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Juniorinnen (Pilotspielrunde) - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Holstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Juniorinnen Kreisliga Holstein",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kiel",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Meisterrunde Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Lübeck",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Süd Ost Quali",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Kreisliga 5 (HL)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Meisterrunde D-Juniorinnen 5 (HL)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Nordfriesland",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Juniorinnen KL Nord-West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Ostholstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Juniorinnen KL Ost 23/24 Qualifikation",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rendsburg-Eckernförde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Juniorinnen Kreisliga 5 Mitte (RD-ECK)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Kreisliga 2 (RD-ECK)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Schleswig-Flensburg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Juniorinnen Quali Nord-Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Meisterrunde Nord 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Normalstaffel Nord 23/24",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Segeberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Juniorinnen KL Mitte/Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen KL St. 3 (SE)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Meisterrunde St. 4 (SE)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Stormarn",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junniorinen KL Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Westküste",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Süd-West (7er/5er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga West (7er/5er)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "KL-Meisterrunde (Staffel 3)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisliga (Staffel 4)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Ostholstein",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Juniorinnen KL Staffel 1 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Juniorinnen KL Staffel 2 23/24",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Juniorinnen KL Staffel 2 Frühjahr/Sommer",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rendsburg-Eckernförde",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Juniorinnen  Kreisliga - Rückrunde 2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

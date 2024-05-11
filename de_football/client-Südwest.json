@@ -1,0 +1,3694 @@
+{
+  "name": "Südwest",
+  "label": "teamTypes",
+  "options": [
+    {
+      "name": "Ü40 Senioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Alzey-Worms",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Altsenioren Gruppe A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Altsenioren Gruppe B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ü 40 Großfeld Meisterschaft",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Mittelhaardt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü40 Großfeld Kreismeisterschaft Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ü40 Großfeld Kreismeisterschaft Staffel 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Pfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü40-Liga Kleinfeld Rhein-Pfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ü32 Senioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Rhein-Pfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü32-Meisterschaftsrunde B-Klasse Rhein-Pfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Pirmasens/Zweibrücken",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü32 Meisterschaft Gruppe A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Ü32 Meisterschaft Gruppe B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Pfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Ü32-Meisterschaftsrunde C-Klasse Rhein-Pfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Herren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren Verbandsliga Südwest",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren Landesliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Landesliga West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga (Verband)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren Bezirksliga Nahe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Bezirksliga Rheinhessen",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Bezirksliga Vorderpfalz",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Bezirksliga Westpfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "A-Klasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Alzey-Worms",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren A-Klasse Alzey-Worms",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bad Kreuznach",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren A-Klasse Bad Kreuznach",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Birkenfeld",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren A-Klasse Birkenfeld",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kaiserslaut.-Donnersberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren A-Klasse KL/DOB",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kusel-Kaiserslautern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren A-Klasse Kusel-Kaiserslautern",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mainz-Bingen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren A-Klasse Mainz-Bingen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pirmasens/Zweibrücken",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren A-Klasse Pirmasens - Zweibrücken",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Mittelhaardt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren A-Klasse Rhein-Mittelhaardt",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Pfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren A-Klasse Rhein-Pfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südpfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren A-Klasse Südpfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B-Klasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Alzey-Worms",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren B-Klasse Alzey-Worms Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren B-Klasse Alzey-Worms Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bad Kreuznach",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren B-Klasse Bad Kreuznach 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren B-Klasse Bad Kreuznach 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Birkenfeld",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren B-Klasse Birkenfeld 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren B-Klasse Birkenfeld 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kaiserslaut.-Donnersberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren B-Klasse KL/DOB Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren B-Klasse KL/DOB Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kusel-Kaiserslautern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren B-Klasse Kusel-Kaiserslautern Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren B-Klasse Kusel-Kaiserslautern Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mainz-Bingen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren B-Klasse Mainz-Bingen Gruppe Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren B-Klasse Mainz-Bingen West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pirmasens/Zweibrücken",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren B Klasse West Pirmasens-Zweibrücken",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren B-Klasse Ost Pirmasens-Zweibrücken",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Mittelhaardt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren B-Klasse Rhein-Mittelhaardt Gruppe Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren B-Klasse Rhein-Mittelhaardt Gruppe West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Pfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren B-Klasse Rhein-Pfalz Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren B-Klasse Rhein-Pfalz Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südpfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren B- Klasse Südpfalz Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren B-Klasse Südpfalz West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C-Klasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Alzey-Worms",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren C-Klasse Alzey-Worms Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren C-Klasse Alzey-Worms Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bad Kreuznach",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren C-Klasse Bad Kreuznach 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren C-Klasse Bad Kreuznach 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Birkenfeld",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren C-Klasse Birkenfeld 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren C-Klasse Birkenfeld 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren C-Klasse Birkenfeld 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kaiserslaut.-Donnersberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren C-Klasse KL/DOB Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren C-Klasse KL/DOB Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kusel-Kaiserslautern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren C-Klasse Grp. 1 Kusel-Kaiserslautern",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren C-Klasse Grp. 2 Kusel-Kaiserslautern",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mainz-Bingen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren C-Klasse Mainz-Bingen Gruppe Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren C-Klasse Mainz-Bingen Gruppe Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren C-Klasse Mainz-Bingen West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pirmasens/Zweibrücken",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C Klasse Ost  Pirmasens-Zweibrücken",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C Klasse West Pirmasens-Zweibrücken",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Mittelhaardt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren C-Klasse Rhein-Mittelhaardt Gruppe Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren C-Klasse Rhein-Mittelhaardt Gruppe West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Pfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren C-Klasse Rhein-Pfalz Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren C-Klasse Rhein-Pfalz Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südpfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren C-Klasse Südpfalz Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren C-Klasse Südpfalz West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D-Klasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Südpfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren D-Klasse Südpfalz Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren D-Klasse Südpfalz West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Reserveklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Kusel-Kaiserslautern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Herren Reserverunde 1 KUS-KL",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Herren Reserverunde 2 KUS-KL",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Landesliga Nahe/Westpfalz",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Landesliga Rheinhessen",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "A-Junioren Landesliga Vorderpfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Alzey-Worms",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisliga Rheinhessen Süd-West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bad Kreuznach",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisliga Nahe",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kaiserslaut.-Donnersberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisliga Kus-KL-Do",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mainz-Bingen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisliga MZ-BI",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pirmasens/Zweibrücken",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisliga Westpfalz-Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Mittelhaardt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisliga Rhein-Mittelhaardt",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Pfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisliga Rhein-Pfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südpfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "A-Junioren Kreisliga Südpfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Landesliga Nahe/Westpfalz",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Landesliga Rheinhessen",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Landesliga Vorderpfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Alzey-Worms",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisliga Rheinhessen Süd-West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bad Kreuznach",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisliga Bad Kreuznach",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren Kreisliga Birkenfeld",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kaiserslaut.-Donnersberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisliga Westpfalz KL-DO",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kusel-Kaiserslautern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisliga Westpfalz Mitte",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mainz-Bingen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisliga Mainz-Bingen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pirmasens/Zweibrücken",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisliga Westpfalz Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Mittelhaardt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisliga Rhein-Mittelhaardt",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Pfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisliga Rheinpfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südpfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisliga Südpfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Alzey-Worms",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren KKL Alzey Worms",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mainz-Bingen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren 1.Kreisklasse MZ-BI Gr.I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Junioren 1.Kreisklasse MZ-BI Gr.II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Mittelhaardt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren 1. Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Pfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren 1. Kreisklasse Rhein-Pfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südpfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren 1.Kreisklasse Südpfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Landesliga Nahe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Landesliga Rheinhessen",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Landesliga Vorderpfalz",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Landesliga Westpfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Alzey-Worms",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisliga Rheinhessen Süd-West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bad Kreuznach",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisliga Bad Kreuznach",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren Kreisliga Birkenfeld",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kaiserslaut.-Donnersberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisliga KL_DO",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kusel-Kaiserslautern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisliga Westpfalz Mitte",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mainz-Bingen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisliga Mainz-Bingen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pirmasens/Zweibrücken",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisliga Westpfalz Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Mittelhaardt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisliga Rhein-Mittelhaardt",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Pfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisliga Rheinpfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südpfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisliga Südpfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Alzey-Worms",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisklasse Az-Wo",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mainz-Bingen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren 1.Kreisklasse MZ-BI Gr. I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren 1.Kreisklasse MZ-BI Gr. II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren 1.Kreisklasse MZ-BI Gr. III",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pirmasens/Zweibrücken",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren Kreisklasse Westpfalz Süd",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Mittelhaardt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren 1. Kreisklasse Rhein Mittelhaardt Gruppe A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Junioren 1. Kreisklasse Rhein Mittelhaardt Gruppe B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Pfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren 1. Kreisklasse Rhein-Pfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südpfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren 1.Kreisklasse Südpfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Rhein-Pfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren 2. Kreisklasse Rhein-Pfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südpfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Junioren 2.Kreisklasse Südpfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Landesliga Nahe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Landesliga Rheinhessen",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Landesliga Vorderpfalz",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Landesliga Westpfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Alzey-Worms",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga Rheinhessen Süd-West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bad Kreuznach",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga Bad Kreuznach",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Birkenfeld",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga Birkenfeld",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kaiserslaut.-Donnersberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga KL-DO",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kusel-Kaiserslautern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga Westpfalz Mitte",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mainz-Bingen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga MZ-BI",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pirmasens/Zweibrücken",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga PS/ZW",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Mittelhaardt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga Rhein-Mittelhaardt",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Pfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga Rhein-Pfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südpfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisliga Südpfalz Nord-West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisliga Südpfalz Süd-Ost",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Alzey-Worms",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisklasse 1 Alzey-Worms",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bad Kreuznach",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren 1.Kreisklasse Bad Kreuznach",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Birkenfeld",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Jun. KKL Birkenfeld VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren 1.Kreisklasse RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kaiserslaut.-Donnersberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisklasse KL-DO Gruppe A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Kreisklasse KL-DO Gruppe B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kusel-Kaiserslautern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren 1.Kreisklasse Westpfalz Mitte",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mainz-Bingen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren 1. Kreisklasse MZ-BI",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pirmasens/Zweibrücken",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisklasse PS/ZW",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Mittelhaardt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren 1. Kreisklasse Rhein-Mittelhaardt",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Pfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren 1. Kreisklasse Rhein-Pfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südpfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren 1.Kreisklasse Südpfalz Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren 1.Kreisklasse Südpfalz Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren 1.Kreisklasse Südpfalz West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Alzey-Worms",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Kreisklasse 2 Alzey-Worms",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mainz-Bingen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Jugend 2.Kreisklasse MZ-BI Gr. IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren 2. Kreisklasse MZ-BI Gr. I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren 2. Kreisklasse MZ-BI Gr. II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren 2.Kreisklasse MZ-BI Gr. III",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Mittelhaardt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren 2.Kreisklasse Rhein-Mittelhaardt Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren 2.Kreisklasse Rhein-Mittelhaardt West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Pfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren 2. Kreisklasse Rhein-Pfalz Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren 2. Kreisklasse Rhein-Pfalz West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bad Kreuznach",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisliga Bad Kreuznach",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Birkenfeld",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisliga Birkenfeld",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kaiserslaut.-Donnersberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisliga KL-DO Gruppe A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga KL-DO Gruppe B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kusel-Kaiserslautern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisliga Westpfalz Mitte",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mainz-Bingen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisliga MZ-BI",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pirmasens/Zweibrücken",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisliga PS/ZW",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Mittelhaardt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisliga Rhein-Mittelhaardt Vorrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E.Junioren Kreisliga (Rückrunde)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Pfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisliga Rhein-Pfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südpfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisliga Mitte 1 Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga Mitte 2 Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga Nord-Ost Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga Nord-West Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga Süd-Ost Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga Süd-West Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga Nord-West Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisliga Süd-Ost Südpfalz RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Alzey-Worms",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse Az-Wo Süd 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Az-Wo Süd 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Az-Wo West 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse Az-Wo West 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bad Kreuznach",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren 1.Kreisklasse Bad Kreuznach Gruppe I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1.Kreisklasse Bad Kreuznach Gruppe II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1.Kreisklasse Bad Kreuznach Reserve",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Birkenfeld",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Jun. Reserve Birkenfeld",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kaiserslaut.-Donnersberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisklasse KL-DO Gruppe A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse KL-DO Gruppe B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse KL-DO Gruppe C",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kusel-Kaiserslautern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisklasse KUS/KL Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse KUS/KL Gruppe 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mainz-Bingen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren 1.Kreisklasse MZ-BI Gr.I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1.Kreisklasse MZ-BI Gr.II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1.Kreisklasse MZ-BI Gr.III",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pirmasens/Zweibrücken",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren Kreisklasse PS/ZW Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse PS/ZW Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse PS/ZW Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse PS/ZW Gruppe 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren Kreisklasse PS/ZW Gruppe 5",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Mittelhaardt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren 1. Kreisklasse Rhein-Mittelhaardt Mitte (Vorrunde)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1. Kreisklasse Rhein-Mittelhaardt Ost (Vorrunde)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1. Kreisklasse Rhein-Mittelhaardt West (Vorrunde)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1. Kreisklasse Staffel A  Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1. Kreisklasse Staffel B  Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1. Kreisklasse Staffel C  Rückrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Pfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren 1.Kreisklasse Rhein-Pfalz Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1.Kreisklasse Rhein-Pfalz West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südpfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren 1.Kreisklasse Mitte 1 Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1.Kreisklasse Mitte 2 Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1.Kreisklasse Nord-Ost Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1.Kreisklasse Nord-West Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1.Kreisklasse Süd-Ost Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1.Kreisklasse Süd-West Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1.Kreisklasse Süd Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1.Kreisklasse West Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1Kreisklasse Nord Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 1Kreisklasse Ost Südpfalz RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Mainz-Bingen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren 2.Kreisklasse MZ-BI Gr.I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 2.Kreisklasse MZ-BI Gr.II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 2.Kreisklasse MZ-BI Gr.III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 2.Kreisklasse MZ-BI Gr.IV",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 2.Kreisklasse MZ-BI Gr.V",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 2.Kreisklasse MZ-BI Gr.VI",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 2.Kreisklasse MZ-BI Gr.VII",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 2.Kreisklasse MZ-BI Gr.VIII",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pirmasens/Zweibrücken",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Qualifikation zur Kreisklasse Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifikation zur Kreisklasse Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifikation zur Kreisklasse Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifikation zur Kreisliga Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifikation zur Kreisliga Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifikation zur Kreisliga Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Qualifikation zur Kreisliga Gruppe 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsspiel Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Platzierungsspiel Gruppe 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Mittelhaardt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren 2. Kreisklasse Rhein-Mittelhaardt Mitte (Vorrunde)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 2. Kreisklasse Rhein-Mittelhaardt Ost (Vorrunde)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 2. Kreisklasse Rhein-Mittelhaardt West (Vorrunde)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 2. Kreisklasse Staffel A Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 2. Kreisklasse Staffel B Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 2. Kreisklasse Staffel C Rückrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Pfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren 2. Kreisklasse Rhein-Pfalz Mitte I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 2. Kreisklasse Rhein-Pfalz Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 2. Kreisklasse Rhein-Pfalz West",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 2.Kreisklasse Rhein-Pfalz Mitte II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südpfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Junioren 2.1Kreisklasse Nord-Ost Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 2.1Kreisklasse Nord-West Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 2.1Kreisklasse Süd Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 2.2Kreisklasse Nord-Ost Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 2.2Kreisklasse Nord-West Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 2.2Kreisklasse Süd Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Junioren 2.2Kreisklasse Süd-West Südpfalz RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "F-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Birkenfeld",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren Staffel A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Staffel B",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Mittelhaardt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren Kreisliga Rhein-Mittelhaardt Gruppe A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisliga Rhein-Mittelhaardt Gruppe B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisliga Rhein-Mittelhaardt Gruppe A (Rückrunde)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kreisliga Rhein-Mittelhaardt Gruppe B (Rückrunde)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bad Kreuznach",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-J-KK-Bad Kreuznach-Grp I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-J-KK-Bad Kreuznach-Grp II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-J-KK-Bad Kreuznach-Grp III",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-J-KK-Bad Kreuznach-Grp IV",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kaiserslaut.-Donnersberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren Kinderfussball Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kinderfussball Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kinderfussball Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Kinderfussball Gruppe 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kusel-Kaiserslautern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Gruppe 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mainz-Bingen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Jugend Gr. 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jugend Gr. 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jugend Gr. 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jugend Gr. 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jugend Gr. 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jugend Gr. 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jugend Gr. 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jun. Gruppe 1 Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jun. Gruppe 2 Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jun. Gruppe 3 Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jun. Gruppe 4 Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jun. Gruppe 5 Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jun. Gruppe 6 Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jun. Gruppe 7 Rückrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pirmasens/Zweibrücken",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren PS/ZW Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren PS/ZW Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren PS/ZW Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren PS/ZW Gruppe 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren PS/ZW Gruppe 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren PS/ZW Gruppe 6",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Mittelhaardt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren 1. Kreisklasse Rhein-Mittelhaardt Gruppe A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1. Kreisklasse Rhein-Mittelhaardt Gruppe B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1. Kreisklasse Rhein-Mittelhaardt Gruppe C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1. Kreisklasse Rhein-Mittelhaardt Gruppe D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1. Kreisklasse Rhein-Mittelhaardt Gruppe E",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1. Kreisklasse Rhein-Mittelhaardt Gruppe F",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1. Kreisklasse Rhein-Mittelhaardt Gruppe A (Rückrunde)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1. Kreisklasse Rhein-Mittelhaardt Gruppe B (Rückrunde)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1. Kreisklasse Rhein-Mittelhaardt Gruppe C (Rückrunde)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1. Kreisklasse Rhein-Mittelhaardt Gruppe D (Rückrunde)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1. Kreisklasse Rhein-Mittelhaardt Gruppe E (Rückrunde)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1. Kreisklasse Rhein-Mittelhaardt Gruppe F (Rückrunde)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Pfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren Ost FP Staffel  2  VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Ost FP Staffel 1 VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Ost FP Staffel 3 VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Ost FP Staffel 4 VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren West FP Staffel 1 VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren West FP Staffel 2 VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren West FP Staffel 3 VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren West FP Staffel 4 VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren OST FP Staffel 1 RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren OST FP Staffel 2 RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren OST FP Staffel 3 RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren OST FP Staffel 4 RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren West FP Staffel 2 RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren West FP Staffel 3 RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren West FP Staffel 4 RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren WestFP Staffel 1 RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südpfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren 1.Kreisklasse  Süd-Ost Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1.Kreisklasse Mitte Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1.Kreisklasse Nord-Ost Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1.Kreisklasse Nord-West Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1.Kreisklasse Süd Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1.Kreisklasse Mitte Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1.Kreisklasse Nord Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1.Kreisklasse Nord-Ost Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1.Kreisklasse Süd Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 1.Kreisklasse Süd-West Südpfalz RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Alzey-Worms",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren Alzey-Worms Mitte I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Alzey-Worms Mitte II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Alzey-Worms Süd I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Alzey-Worms Süd II",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Alzey-Worms West I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren Alzey-Worms West II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mainz-Bingen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Jugend Gr. 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jugend Gr. 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jugend Gr. 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jugend Gr. 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jugend Gr. 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jugend Gr. 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jugend Gr. 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jugend Gr. 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jun. Gruppe 1 Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jun. Gruppe 2 Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jun. Gruppe 3 Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jun. Gruppe 4 Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jun. Gruppe 5 Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jun. Gruppe 6 Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jun. Gruppe 7 Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Jun. Gruppe 8 Rückrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südpfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "F-Junioren 2.Kreisklasse  Mitte 2 Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 2.Kreisklasse  Nord-West Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 2.Kreisklasse  Ost Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 2.Kreisklasse Mitte 1 Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 2.Kreisklasse Nord Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 2.Kreisklasse Süd Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 2.Kreisklasse Süd-West Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 2.Kreisklasse Mitte 1 Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 2.Kreisklasse Mitte 2 Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 2.Kreisklasse Nord Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 2.Kreisklasse Nord-West Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 2.Kreisklasse Ost Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 2.Kreisklasse Süd Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "F-Junioren 2.Kreisklasse Süd-West Südpfalz RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "G-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "1.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Alzey-Worms",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "G-Junioren Mitte",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren West I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren West II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Bad Kreuznach",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "G-J-KK-Bad Kreuznach-Grp I",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-J-KK-Bad Kreuznach-Grp II",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kaiserslaut.-Donnersberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "G-Junioren Kinderfussball Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren Kinderfussball Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren Kinderfussball Gruppe 3",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Kusel-Kaiserslautern",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "G-Jug. Kreisklasse1 Gruppe A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Jug. Kreisklasse1 Gruppe B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Jug. Kreisklasse1 Gruppe C",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mainz-Bingen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "G-Jugend Gr. 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Jugend Gr. 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Jugend Gr. 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Jugend Gr. 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Jugend Gr. 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Jugend Gr. 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Jug. Gruppe 1 Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Jug. Gruppe 2 Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Jug. Gruppe 3 Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Jug. Gruppe 4 Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Jug. Gruppe 5 Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Jug. Gruppe 6 Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Jug. Gruppe 7 Rückrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Jug. Gruppe 8 Rückrunde",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pirmasens/Zweibrücken",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "G-Junioren PS/ZW Gruppe 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren PS/ZW Gruppe 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren PS/ZW Gruppe 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren PS/ZW Gruppe 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Mittelhaardt",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "G-Junioren 1. Kreisklasse Rhein-Mittelhaardt Gruppe A",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren 1. Kreisklasse Rhein-Mittelhaardt Gruppe B",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren 1. Kreisklasse Rhein-Mittelhaardt Gruppe C",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren 1. Kreisklasse Rhein-Mittelhaardt Gruppe D",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren 1. Kreisklasse Rhein-Mittelhaardt Gruppe A (Rückrunde)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren 1. Kreisklasse Rhein-Mittelhaardt Gruppe B (Rückrunde)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren 1. Kreisklasse Rhein-Mittelhaardt Gruppe C (Rückrunde)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren 1. Kreisklasse Rhein-Mittelhaardt Gruppe D (Rückrunde)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Rhein-Pfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "G Junioren Ost FP Staffel 1  VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G Junioren Ost FP Staffel 2  VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G Junioren West FP Staffel 1 VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G Junioren West FP Staffel 2 VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G Junioren Ost FP Staffel  1  RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G Junioren Ost FP Staffel  2 RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G Junioren West FP Staffel 1  RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren West FP Staffel 2 RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Südpfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "G-Junioren 1.KK Nord Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren 1.KK Süd Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren 1.Kreisklasse A Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren 1.Kreisklasse B Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren 1.Kreisklasse C Südpfalz RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.Kreisklasse",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Südpfalz",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "G-Junioren 2.Kreisklasse Mitte Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren 2.Kreisklasse Nord Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren 2.Kreisklasse Nord-West Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren 2.Kreisklasse Ost Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren 2.Kreisklasse Süd Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren 2.Kreisklasse West Südpfalz VR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren 2.Kreisklasse Mitte Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren 2.Kreisklasse Nord-West Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren 2.Kreisklasse Ost Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren 2.Kreisklasse Süd Südpfalz RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "G-Junioren 2.Kreisklasse West Südpfalz RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frauen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Verbandsliga Südwest",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Landesliga Rheinhessen",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Frauen Landesliga Vorderpfalz",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Frauen Landesliga Westpfalz-Nahe",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga (Verband)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Frauen Bezirksliga Vorderpfalz Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Frauen Bezirksliga Vorderpfalz Süd",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Frauen Bezirksliga Westpfalz Nord",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Frauen Bezirksliga Westpfalz Süd 12",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Juniorinnen Landesliga Rheinhessen/Nahe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "B-Juniorinnen Landesliga Vorderpfalz/Westpfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "C-Juniorinnen Landesliga Rheinhessen / Nahe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Juniorinnen Landesliga Vorderpfalz",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C-Juniorinnen Landesliga Westpfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Juniorinnen Landesliga Rheinhessen",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Landesliga Vorderpfalz",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Landesliga Westpfalz V2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Juniorinnen Landesliga Rheinhessen RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "E-Juniorinnen Landesliga Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "E-Juniorinnen Landesliga Westpfalz",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Freizeitsport",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "eVerbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "eLandesliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bezirksliga (Verband)",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Südwest",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "eBezirksliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

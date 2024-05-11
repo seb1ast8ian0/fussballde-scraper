@@ -1,0 +1,2375 @@
+{
+  "name": "Baden",
+  "label": "teamTypes",
+  "options": [
+    {
+      "name": "Herren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Landesliga Mittelbaden",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Landesliga Odenwald",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Landesliga Rhein-Neckar",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bruchsal",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisliga Bruchsal",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Buchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisliga Buchen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heidelberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisliga Heidelberg",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Karlsruhe",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisliga Karlsruhe",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mannheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga Mannheim",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mosbach",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisliga Mosbach",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pforzheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisliga Pforzheim",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sinsheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv - Kreisliga Sinsheim",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Tauberbischofsheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisliga TBB 2023/2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bruchsal",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisklasse A Bruchsal",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Buchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisklasse A Buchen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heidelberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisklasse A Heidelberg",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Karlsruhe",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisklasse A1 Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Kreisklasse A2 Karlsruhe",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mannheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A1 Mannheim",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse A2 Mannheim",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mosbach",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisklasse A Mosbach",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pforzheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisklasse A1 Pforzheim",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Kreisklasse A2 Pforzheim",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sinsheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisklasse  Sinsheim Reserve",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Kreisklasse A Sinsheim",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Tauberbischofsheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse A TBB 2023/2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse B",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bruchsal",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisklasse B Bruchsal Hardt",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Kreisklasse B Bruchsal Kraichgau",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Buchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisklasse B Buchen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heidelberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisklasse B Heidelberg",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Karlsruhe",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisklasse B1 Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Kreisklasse B2 Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Kreisklasse B3 Karlsruhe",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mannheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse B1 Mannheim",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B2 Mannheim",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Kreisklasse B3 Mannheim",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mosbach",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisklasse B1 Mosbach",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Kreisklasse B2 Mosbach",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pforzheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisklasse B1 Pforzheim",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Kreisklasse B2 Pforzheim",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sinsheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisklasse B 1 Sinsheim",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Kreisklasse B2  Sinsheim",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Tauberbischofsheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse B TBB 2023/2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse C",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bruchsal",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisklasse C Bruchsal",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heidelberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisklasse C HD Ost",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Kreisklasse C HD West",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Karlsruhe",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisklasse C1 Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Kreisklasse C2 Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Kreisklasse C3 Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Kreisklasse C4 Karlsruhe",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mannheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "PM",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pforzheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisklasse C1 Pforzheim",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Kreisklasse C2 Pforzheim",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Kreisklasse C3 Pforzheim",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Tauberbischofsheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "Kreisklasse C  TBB 2023/2024",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-A-Junioren Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-A-Junioren Landesliga Mittelbaden",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-A-Junioren Landesliga Odenwald St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-A-Junioren Landesliga Odenwald St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-A-Junioren Landesliga Rhein/Neckar",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bruchsal",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-A-Junioren Kreisliga Bruchsal",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heidelberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-A-Junioren Kreisliga HD",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Karlsruhe",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-A-Junioren Kreisliga RR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mannheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-A-Junioren Kreisliga MA Qualifikationsstaffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-A-Junioren Kreisliga MA Qualifikationsstaffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-A-Junioren Kreisliga Mannheim",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pforzheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-A-Junioren Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bruchsal",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-A-Junioren Qualifikationsrunde 1 - Kreis Bruchsal",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-A-Junioren Qualifikationsrunde 2 - Kreis Bruchsal",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-A-Junioren Qualifikationsrunde 3 - Kreis Bruchsal",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-A-Junioren Kreisklasse A Bruchsal RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heidelberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Kreisliga Quali Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Kreisliga Quali Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Kreisklasse A HD",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Karlsruhe",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-A-Junioren Kreisklasse 1 VR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-A-Junioren Kreisklasse 2 VR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-A-Junioren Kreisklasse RR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mannheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-A-Junioren Kreisklasse Mannheim RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pforzheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-A-Junioren Qualifikationsrunde 1 Kreis Pforzheim",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-A-Junioren Qualifikationsrunde 2 Kreis Pforzheim",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-A-Junioren Kreisklasse",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-B-Junioren Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-B-Junioren Landesliga Mittelbaden",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Junioren Landesliga Odenwald",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Junioren Landesliga Rhein/Neckar",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bruchsal",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-B-Junioren Kreisliga Bruchsal",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heidelberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv B-Junioren Kreisliga Heidelberg",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Karlsruhe",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-B-Junioren Kreisliga RR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mannheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-B-Junioren Kreisliga MA Qualifikationsstaffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Junioren Kreisliga MA Qualifikationsstaffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Junioren Kreisliga Mannheim",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mosbach",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-B-Junioren Kreisliga Odenwald 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pforzheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-B-Junioren Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sinsheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "B-Junioren Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Tauberbischofsheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv - B-Junioren Kreisliga ODW 2  23/24",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bruchsal",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-B-Junioren Qualifikationsrunde 1 - Kreis Bruchsal",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Junioren Qualifikationsrunde 2 - Kreis Bruchsal",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Junioren Qualifikationsrunde 3 - Kreis Bruchsal",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Junioren Kreisklasse A Bruchsal RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heidelberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv B-Junioren Kreisstaffel Heidelberg",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Karlsruhe",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-B-Junioren Kreisklasse 1 VR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Junioren Kreisklasse 2 VR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Junioren Kreisklasse 3 VR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Junioren Kreisklasse 4 VR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Entscheidungsspiel Staffel 1 Aufstieg in Kreisliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "Entscheidungsspiel Staffel 3 Aufstieg in Kreisliga",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Junioren Kreisklasse 1 RR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Junioren Kreisklasse 2 RR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Junioren Kreisklasse 3 RR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mannheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-B-Junioren Kreisklasse MA",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Junioren Kreisklasse 1 Mannheim RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Junioren Kreisklasse 2 Mannheim RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pforzheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-B-Jugend Qualifikationsrunde 1 Kreis Pforzheim",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Jugend Qualifikationsrunde 2 Kreis Pforzheim",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Jugend Qualifikationsrunde 3 Kreis Pforzheim",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Junioren Kreisklasse 1 Pforzheim",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Junioren Kreisklasse 2 Pforzheim",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse B",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bruchsal",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-B-Junioren Kreisklasse B - Kreis Bruchsal",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Junioren Kreisklasse B Bruchsal RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-C-Junioren Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-C-Junioren Landesliga Mittelbaden",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Landesliga Odenwald",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Landesliga Rhein/Neckar",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bruchsal",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "BFV-C-Junioren Kreisliga Bruchsal",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Buchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-C-Junioren Kreisliga Buchen",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heidelberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-C-Junioren Kreisliga HD",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Karlsruhe",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-C-Junioren Kreisliga RR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mannheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv- C-Junioren Kreisliga MA Qualifikationsstaffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv- C-Junioren Kreisliga MA Qualifikationsstaffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Kreisliga Mannheim Relegation Meisterrunde",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Kreisliga Mannheim",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mosbach",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-C-Junioren Kreisliga Mosbach",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pforzheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-C-Jugend Kreisliga Kreis Pforzheim",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sinsheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-C-Junioren Kreisliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Tauberbischofsheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-C-Junioren Kreisliga TBB",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bruchsal",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-C-Junioren Qualifikationsrunde 1 - Kreis Bruchsal",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Qualifikationsrunde 2 - Kreis Bruchsal",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "BFV-C-Junioren Kreisklasse A Bruchsal RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heidelberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-C-Junioren Kreisklasse HD 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Kreisklasse HD 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Karlsruhe",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-C-Junioren Kreisklasse 1 VR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Kreisklasse 2 VR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Kreisklasse 3 VR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Kreisklasse 4 VR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Kreisklasse 5 VR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Kreisklasse 1 RR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Kreisklasse 2 RR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Kreisklasse 3 RR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Kreisklasse 4 RR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mannheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-C-Junioren Kreisklasse MA Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Kreisklasse MA Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Kreisklasse MA Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Kreisklasse MA Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Kreisklasse 1 Mannheim RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Kreisklasse 2 Mannheim RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Kreisklasse 3 Mannheim RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Kreisklasse 4 Mannheim RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Kreisklasse 5 Mannheim RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pforzheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-C-Jugend Kreisklasse 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Jugend Kreisklasse 2",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sinsheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-C-Junioren Kreisklasse",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "C Junioren Frühjahr Staffel 1",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse B",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bruchsal",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-C-Junioren Kreisklasse B Staffel 1 - Kreis Bruchsal",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Kreisklasse B Staffel 2 - Kreis Bruchsal",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Junioren Kreisklasse B Staffel 3 - Kreis Bruchsal",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "BFV-C-Junioren Kreisklasse B Bruchsal RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Junioren",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bruchsal",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-D-Junioren-Kreisliga-Kreis Bruchsal",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Buchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-D-Junioren Meisterstaffel",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heidelberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-D-Junioren-Kreisliga HD",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Karlsruhe",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-D-Junioren Kreisliga Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mannheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-D-Junioren Kreisliga Mannheim",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mosbach",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-D-Junioren Kreisliga Mosbach",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pforzheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-D-Jugend Kreisliga  Kreis Pforzheim",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Tauberbischofsheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-D-Junioren-Kreisliga-TBB",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse A",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bruchsal",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-D-Junioren Kreisklasse A VR St. 1 Kreis Bruchsal",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse A VR St. 2 Kreis Bruchsal",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse A VR St. 3 Kreis Bruchsal",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse A VR St. 4 Kreis Bruchsal",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse A St.1 Kreis Bruchsal RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse A St.2 Kreis Bruchsal RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse A St.3 Kreis Bruchsal RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse A St.4 Kreis Bruchsal RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Buchen",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-D-Junioren Platzierungsstaffel 1 (Herbst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Platzierungsstaffel 2 (Herbst)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Platzierungsstaffel 1 - Buchen (Rückrunde)",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Platzierungsstaffel 2 - Buchen (Rückrunde)",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Heidelberg",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-D-Jun.-KST HD 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Jun.-KST HD 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Jun.-KST HD 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Jun.-KST HD 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Jun.-KST HD 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Jun.-KST HD 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Jun.-KST HD 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Jun.-KST HD 1 RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Jun.-KST HD 2 RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Jun.-KST HD 3 RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Jun.-KST HD 4 RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Jun.-KST HD 5 RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Jun.-KST HD 6 RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Jun.-KST HD 7 RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Karlsruhe",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 1 VR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 2 VR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 3 VR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 4 VR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 5 VR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 6 VR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 7 VR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 8 VR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 9 VR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 1 RR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 2 RR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 3 RR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 4 RR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 5 RR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 6 RR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 7 RR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 8 RR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 9 RR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mannheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-D-Junioren Kreisklasse MA Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse MA Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse MA Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse MA Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse MA Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse MA Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse MA Staffel 7",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse MA Staffel 8",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse MA Staffel 9",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 1 Mannheim RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 2 Mannheim RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 3 Mannheim RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 4 Mannheim RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 5 Mannheim RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 6 Mannheim RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 7 Mannheim RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 8 Mannheim RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse 9 Mannheim RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Mosbach",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-D-Junioren Kreisklasse A Mosbach",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Pforzheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-D-Jugend Kreisklasse 1 Kreis Pforzheim",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Jugend Kreisklasse 2 Kreis Pforzheim",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Jugend Kreisklasse 3 Kreis Pforzheim",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Jugend Kreisklasse 4 Kreis Pforzheim",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Jugend Kreisklasse 5 Kreis Pforzheim",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Sinsheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "D-Junioren Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Staffel 6",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Frühjahr Staffel 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Frühjahr Staffel 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Frühjahr Staffel 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Frühjahr Staffel 4",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Frühjahr Staffel 5",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "D-Junioren Frühjahr Staffel 6",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Tauberbischofsheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-D-Junioren-Kreisklasse A-TBB",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse B",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Bruchsal",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-D-Junioren Kreisklasse B St. 1 Kreis Bruchsal RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse B St. 2 Kreis Bruchsal RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse B St.1 Kreis Bruchsal RR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kreisklasse B St.2 Kreis Bruchsal RR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            },
+            {
+              "name": "Kreis Karlsruhe",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-D-Junioren Kleinfeldstaffel VR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Junioren Kleinfeldstaffel RR Kreis Karlsruhe",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisklasse C",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Tauberbischofsheim",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-D-Junioren-Kreisklasse C-TBB",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frauen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Verbandsliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Frauen-Verbandsliga",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Frauen Landesliga KF St.1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Frauen Landesliga KF St.2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Frauen Landesliga St. 1",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Frauen Landesliga St. 2",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Frauen Landesliga St. 3",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-Frauen Landesliga St. 4",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kreisliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Kreis Mosbach",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-Frauen Kreisliga MOS/BCH",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-A-Juniorinnen LL HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-A-Juniorinnen LL FR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-B-Juniorinnen LL (11er) St.1 HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Juniorinnen LL (9er/7er) St.2 HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Juniorinnen LL (9er/7er) St.3 HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Juniorinnen LL (9er/7er) St.4 HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Juniorinnen LL St. 1 (11er) FR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Juniorinnen LL St. 2 (9er/7er) FR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Juniorinnen LL St. 3 (9er/7er) FR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-B-Juniorinnen LL St. 4 (9er/7er) FR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-C-Juniorinnen LL St.1 (9er) HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Juniorinnen LL St.2 (9er/7er) HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Juniorinnen LL St.3 (11er/9er) HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Juniorinnen LL St.4 (9er/7er) HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Juniorinnen LL St. 1 (9er/7er) FR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Juniorinnen LL St. 2 (9er/7er) FR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Juniorinnen LL St. 3 (9er/7er) FR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-C-Juniorinnen LL St. 4 (9er/7er) FR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D-Juniorinnen",
+      "label": "leagues",
+      "options": [
+        {
+          "name": "Landesliga",
+          "label": "areas",
+          "options": [
+            {
+              "name": "Baden",
+              "label": "competitons",
+              "options": [
+                {
+                  "name": "bfv-D-Juniorinnen LL St. 3 HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Juniorinnen LL St.1 HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Juniorinnen LL St.2 HR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Juniorinnen LL St. 1 FR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Juniorinnen LL St. 2 FR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Juniorinnen LL St. 3 FR",
+                  "label": null,
+                  "options": null
+                },
+                {
+                  "name": "bfv-D-Juniorinnen LL St. 4 FR",
+                  "label": null,
+                  "options": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
